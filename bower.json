@@ -1,0 +1,33 @@
+{
+  "name": "tune-challenge",
+  "homepage": "http://mosesinc.com",
+  "authors": [
+    "Sean Johnson <sjohnson@mosesinc.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "modernizr": ">=2.8.2",
+    "jquery": ">=2.1.4",
+    "meyer-reset": "*",
+    "bourbon": ">=4.0.2",
+    "neat": ">=1.4.0",
+    "bourbon-tonic": ">=1.0.0",
+    "backbone.marionette": ">=2.2.2",
+    "gsap": ">=1.13.2",
+    "Chart.js": ">=1.0.2",
+    "handlebars": ">=4.0.3"
+  },
+  "overrides": {
+    "modernizr": {
+      "main": "./modernizr.js"
+    },
+    "meyer-reset": {
+      "main": "./stylesheets/_meyer-reset.scss",
+      "version": "2.0.1",
+      "ignore": [
+        "**/.*"
+      ]
+    }
+  }
+}

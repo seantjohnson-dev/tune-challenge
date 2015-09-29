@@ -1,0 +1,30 @@
+<article class="user-single-container">
+	<div class="user-single-content">
+		<figure class="user-info-container">
+			<div class="user-avatar-container">
+				{{{avatar_html}}}
+			</div>
+			<figcaption class="user-name-occupation-container">
+				<hgroup>
+					<h2 class="user-name">{{name}}</h2>
+					<h3 class="user-occupation">{{occupation}}</h3>
+				</hgroup>
+			</figcaption>
+		</figure>
+		<div class="user-details-container">
+			<figure class="user-graphs-container">
+				<canvas id="user-graph-{{id}}" class="user-graph" width="400" height="100">Your browser does not support canvas.</canvas>
+				<figcaption class="user-data-container">
+					<p class="user-graph-caption">Conversions: <span class="conversion-data">{{graph_start_date}} - {{graph_end_date}}</span></p>
+				</figcation>
+			</figure>
+			<aside class="user-numbers-container">
+				<h5 class="user-impressions">{{impressions_output}}</h5>
+				<span class="user-number-label">impressions</span>
+				<h5 class="user-conversions">{{impressions_output}}</h5>
+				<span class="user-number-label">conversions</span>
+				<h4 class="user-total-revenue">{{revenue_output}}</h4>
+			</aside>
+		</div>
+	</div>
+</article>

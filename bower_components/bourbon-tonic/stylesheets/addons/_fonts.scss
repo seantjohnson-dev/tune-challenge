@@ -1,0 +1,10 @@
+@mixin upper($size:0) {
+	text-transform:uppercase;
+	@if ($size > 0) { font-size: $size; }
+}
+
+@mixin lower($size:0) {
+	text-transform:lowercase;
+	@if ($size > 0) { font-size: $size; }
+}
+
