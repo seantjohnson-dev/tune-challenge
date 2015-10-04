@@ -1,4 +1,0 @@
-@mixin background-size($size: auto) {
-    @include prefixer(background-size, $size, webkit moz);
-    background-size: $size;
-}
