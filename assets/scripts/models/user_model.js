@@ -1,37 +1,93 @@
 (function ($, win, BB) {
 	App.Models.UserModel = App.Models.BaseModel.extend({
 		defaults: function () {
-			var defs = {
-				id: 0,
+			var superDefaults = App.Models.BaseModel.prototype.defaults.apply(this, arguments);
+			var defaults = {
 				name: "",
-				avatar: "",
+				id: 0,
 				occupation: "",
-				revenue: 0,
-				revenue_output: "0",
-				impressions: 0,
-				impressions_output: "0",
-				conversions: 0,
-				conversions_output: "0",
-				logs: {
-					impressions: new App.Collections.ImpressionCollection(App.Impressions.getAllByUserID(this.get('id'))),
-					conversions: new App.Collections.ConversionCollection(App.Conversions.getAllByUserID(this.get('id')))
+				avatar: ""
+			};
+			return $.extend(true, {}, superDefaults, defaults);
+		},
+		initialize: function () {
+			App.Models.BaseModel.prototype.initialize.apply(this, arguments);
+			this.setNameObject().setLogs().setTotalRevenue().setConversionDateRange().setImpressionDateRange();
+			if (!this.get("avatar")) {
+				this.set("avatar", undefined);
+			}
+		},
+		setLogs: function () {
+			if (!this.get('logs')) {
+				var impressions = new App.Collections.ImpressionCollection(App.impressions.getAllByUserID(this.get('id'))),
+				conversions = new App.Collections.ConversionCollection(App.conversions.getAllByUserID(this.get('id')));
+				this.set('logs', {
+					impressions: impressions,
+					conversions: conversions
+				});
+			}
+			return this;
+		},
+		setNameObject: function() {
+			var full = this.get('name'),
+			split = full.split(" "),
+			nameObj = {
+				full: full,
+				first: split[0],
+				middle: split[1],
+				last: split[2],
+				initials: {
+					first: split[0].charAt(0).toUpperCase(),
+					middle: split[1].charAt(0).toUpperCase(),
+					last: split[2].charAt(0).toUpperCase()
 				}
 			};
-			return $.extend(true, {}, App.Models.BaseModel.prototype.defaults.apply(this, arguments), defs);
-		},
-		initialize: function (attrs, options) {
-			this.options = $.extend(true, this.options, options);
-		},
-		calcRevenue: function () {
+			this.set('name', nameObj);
 			return this;
 		},
-		formatRevenue: function () {
+		setTotalRevenue: function () {
+			var total = 0;
+			this.get('logs').conversions.each(function (conv) {
+				var rev = conv.get('revenue');
+				if (rev > 0) {
+					total += rev;
+				}
+			});
+			this.set('revenue', total);
 			return this;
 		},
-		formatImpressions: function () {
+		setConversionDateRange: function () {
+			var min, max;
+			this.get('logs').conversions.each(function (conv) {
+				var time = conv.getDateObj();
+				if (!min || time.epoch < min.epoch) {
+					min = time;
+				}
+				if (!max || time.epoch > max.epoch) {
+					max = time;
+				}
+			});
+			this.set('conversion_date_range', {
+				min: min,
+				max: max
+			});
 			return this;
 		},
-		formatConversions: function () {
+		setImpressionDateRange: function () {
+			var min, max;
+			this.get('logs').impressions.each(function (imp) {
+				var time = imp.getDateObj();
+				if (!min || time.epoch < min.epoch) {
+					min = time;
+				}
+				if (!max || time.epoch > max.epoch) {
+					max = time;
+				}
+			});
+			this.set('impression_date_range', {
+				min: min,
+				max: max
+			});
 			return this;
 		}
 	});

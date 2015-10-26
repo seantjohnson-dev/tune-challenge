@@ -1,0 +1,26 @@
+$grid-columns: 12 !default;
+$default-feature: min-width;
+$default-layout-direction: LTR !default;
+$border-box-sizing: true !default;
+
+$modular_scale_base: 1em;
+$column: modular_scale(7.75, $modular_scale_base, $golden) !global;
+$gutter: modular_scale(2.25, $modular_scale_base, $golden) !global;
+$fg_column: $column;
+$fg_gutter: $gutter;
+
+$theme_font: "Arial", sans-serif;
+
+$body_bg: #7F8C8D;
+$revenue_green: #29AF61;
+$impression_orange: #E67E22;
+$conversion_blue: #2980B9;
+$label_gray: #BDC3C7;
+$occupation_gray: #95A5A6;
+$username_blue: #2C3E50;
+$graph_label_gray: #5E5E5E;
+$white: #fff;
+$black: #000;
+$avatar_size: 70px;
+$initials_blue_bg: #3498DB;
+$initials_purple_bg: #9B59B6;

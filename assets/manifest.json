@@ -3,16 +3,14 @@
     "main.js": {
       "files": [
         "scripts/vendor/devloft/devloft.js",
+        "scripts/vendor/devloft/utilities/*.js",
         "scripts/vendor/devloft/objects/*.js",
         "scripts/vendor/devloft/behaviors/*.js",
         "scripts/vendor/devloft/behaviorGroups/*.js",
-        "scripts/vendor/devloft/views/*.js",
-        "scripts/vendor/devloft/layouts/*.js",
         "scripts/app.js",
         "scripts/data/logs.js",
         "scripts/data/users.js",
         "scripts/models/log_model.js",
-        "scripts/collections/base_log_collection.js",
         "scripts/collections/log_collection.js",
         "scripts/models/impression_model.js",
         "scripts/collections/impression_collection.js",
@@ -24,10 +22,11 @@
         "scripts/behaviorGroups/*.js",
         "scripts/controllers/*.js",
         "scripts/routers/*.js",
-        "scripts/views/*.js",
-        "scripts/layouts/*.js",
-        "scripts/modules/*.js",
-        "scripts/_*.js"
+        "scripts/views/item/*.js",
+        "scripts/views/collection/*.js",
+        "scripts/views/composite/*.js",
+        "scripts/regions/*.js",
+        "scripts/layouts/*.js"
       ],
       "vendor": [
           "../bower_components/jquery/dist/jquery.js",

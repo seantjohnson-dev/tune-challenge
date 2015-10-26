@@ -263,7 +263,12 @@ gulp.task('clean', require('del').bind(null, [path.dist]));
 // See: http://www.browsersync.io
 gulp.task('watch', function() {
   browserSync.init({
-    files: ['templates/**/*.hbs', '*.php'],
+    files: [
+    path.source + 'assets/styles/**/*',
+    path.source + 'assets/scripts/**/*',
+    path.source + 'templates/**/*',
+    '*.php'
+    ],
     proxy: config.devUrl
   });
   gulp.watch([path.source + 'styles/**/*'], ['styles']);

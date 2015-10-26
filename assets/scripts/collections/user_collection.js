@@ -5,5 +5,7 @@
 			this.options = $.extend(true, this.options, options);
 		}
 	});
-	App.Users = new App.Collections.UserCollection(App.Data.Users);
+	if (!App.users) {
+		App.users = new App.Collections.UserCollection(App.Data.Users);
+	}
 })(jQuery, window, Backbone);

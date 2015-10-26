@@ -7,8 +7,9 @@
 @import "../../bower_components/bourbon-tonic/stylesheets/_bourbon-tonic.scss";
 // endbower
 
-@import "source/_variables";
-@import "source/_device-sizes";
-@import "source/_breakpoints";
-@import "source/_global";
-@import "source/_app";
+@import "global/_variables";
+@import "global/_device-sizes";
+@import "global/_breakpoints";
+@import "global/_global";
+
+@import "app/_users";

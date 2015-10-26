@@ -4,19 +4,20 @@
   App.Data = {}; // For Bootstrapped Data
   $(function($, win) {
     App.on("start", function (options) {
-      if (BB.history) {
-        BB.history.start({pushState: true});
-      }
+      var resizeTimer;
+      $(win).resize(function() {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function () {
+          App.vent.trigger(App.Constants.onResize);
+        }, 250);
+      });
+      $(win).resize();
+
+      BB.history.start({pushState: true});
     });
+
+    // Kick the whole thing off.
     App.start();
-    var resizeTimer;
-    $(win).resize(function() {
-      clearTimeout(resizeTimer);
-      resizeTimer = setTimeout(function () {
-        App.vent.trigger(App.Constants.onResize);
-      }, 250);
-    });
-    $(win).resize();
   });
 
 })(jQuery, window, Backbone, Marionette);
