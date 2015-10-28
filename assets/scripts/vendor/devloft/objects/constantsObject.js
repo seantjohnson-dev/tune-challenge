@@ -1,7 +1,7 @@
 (function ($, win, doc) {
 	DevLoft.Objects.ConstantsObject = DevLoft.Objects.BaseObject.extend({
 		onResize: "onResize",
-        onDebouncedResize: "onDebouncedResize",
+        onEveryResize: "onEveryResize",
         onWindowLoaded: "onWindowLoaded",
         onRouteChange: "routeChange",
         onRouteChanged: "routeChanged",

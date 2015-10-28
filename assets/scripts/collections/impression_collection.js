@@ -8,7 +8,4 @@
 			return new Date(model.get('time')).getTime();
 		}
 	});
-	if (!App.impressions) {
-		App.impressions = new App.Collections.ImpressionCollection(App.logs.getAllByType("impression"));	
-	}
 })(jQuery, window, Backbone);

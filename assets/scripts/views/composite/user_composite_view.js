@@ -11,6 +11,12 @@
 			return {
 				model: model
 			};
+		},
+		collectionEvents: {
+			"users:ready" : "onCollectionReady"
+		},
+		onCollectionReady: function () {
+			this.trigger("collection:ready", this);
 		}
 	});
 })(jQuery, window, Backbone);

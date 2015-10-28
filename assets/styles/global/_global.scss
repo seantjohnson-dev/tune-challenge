@@ -17,7 +17,7 @@ html, body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
-#master-layout {
+#main-layout {
 	background: $body_bg;
 	@include size(100%);
 	position: relative;
@@ -31,4 +31,20 @@ h1, h2, h3, h4, h5, h6 {
 .table-cell {
   display: table-cell;
   vertical-align: middle;
+}
+#site-loader {
+  @include size(100%);
+  @include position(fixed, 0 null null 0);
+  z-index: 10000;
+  background: url(http://ddof8wj1m41ni.cloudfront.net/tune/img/common/brand/header/tune-logo-sitebrand.png) no-repeat 50% center;
+  opacity: 1;
+  visibility: visible;
+  @include transition(opacity 1s);
+  &.leaving {
+    opacity: 0;
+  }
+  &.loaded {
+    opacity: 0;
+    visibility: hidden;
+  }
 }

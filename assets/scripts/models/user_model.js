@@ -12,10 +12,7 @@
 		},
 		initialize: function () {
 			App.Models.BaseModel.prototype.initialize.apply(this, arguments);
-			this.setNameObject().setLogs().setTotalRevenue().setConversionDateRange().setImpressionDateRange();
-			if (!this.get("avatar")) {
-				this.set("avatar", undefined);
-			}
+			this.setNameObject().loadAvatar().setLogs().setTotalRevenue().setConversionDateRange().setImpressionDateRange();
 		},
 		setLogs: function () {
 			if (!this.get('logs')) {
@@ -89,6 +86,36 @@
 				max: max
 			});
 			return this;
+		},
+		loadAvatar: function () {
+			if (!this.get("avatar")) {
+				this.set("avatar", undefined);
+				this.triggerAvatarReady();
+			} else {
+				var img = new Image();
+				img.onerror = this.proxy(this.onImageError);
+				var src = this.get('avatar');
+				var interval = setInterval(this.proxy(function () {
+					if (img.complete && img.naturalWidth > 0) {
+						clearInterval(interval);
+						this.triggerAvatarReady(true);
+					}
+				}), 100);
+				img.src = src;	
+			}
+			return this;
+		},
+		onImageError: function (e) {
+			e.target.onerror = "";
+			this.triggerAvatarReady();
+			return this;
+		},
+		triggerAvatarReady: function (valid) {
+			this.set("avatar_valid", (valid || false));
+			this.set("ready", true);
+			this.trigger("user:ready", this);
+			return this;
 		}
 	});
+
 })(jQuery, window, Backbone);

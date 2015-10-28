@@ -34,9 +34,7 @@ html {
   -webkit-box-sizing: border-box;
           box-sizing: border-box; }
 
-*,
-*::after,
-*::before {
+*, *::after, *::before {
   -webkit-box-sizing: inherit;
           box-sizing: inherit; }
 
@@ -646,7 +644,7 @@ html, body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700; }
 
-#master-layout {
+#main-layout {
   background: #7F8C8D;
   height: 100%;
   width: 100%;
@@ -662,6 +660,25 @@ h1, h2, h3, h4, h5, h6 {
 .table-cell {
   display: table-cell;
   vertical-align: middle; }
+
+#site-loader {
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  background: url(http://ddof8wj1m41ni.cloudfront.net/tune/img/common/brand/header/tune-logo-sitebrand.png) no-repeat 50% center;
+  opacity: 1;
+  visibility: visible;
+  -webkit-transition: opacity 1s;
+  -o-transition: opacity 1s;
+     transition: opacity 1s; }
+  #site-loader.leaving {
+    opacity: 0; }
+  #site-loader.loaded {
+    opacity: 0;
+    visibility: hidden; }
 
 #user-collection-region {
   height: 100%;
@@ -719,7 +736,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   text-align: center;
   line-height: 70px;
-  background: #524006;
+  background: #93a761;
   color: #fff;
   font-size: 2.6rem; }
 
@@ -727,7 +744,18 @@ h1, h2, h3, h4, h5, h6 {
   float: right;
   height: 70px;
   width: calc(100% - 70px);
-  padding-left: 10px; }
+  padding-left: 10px;
+  position: relative; }
+  .user-bio-text-container hgroup {
+    height: auto;
+    width: calc(100% - 10px);
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    -webkit-transform: translate3d(0, -50%, 0);
+    -ms-transform: translate3d(0, -50%, 0);
+    -o-transform: translate3d(0, -50%, 0);
+    transform: translate3d(0, -50%, 0); }
 
 .user-name {
   color: #000;
@@ -742,10 +770,12 @@ h1, h2, h3, h4, h5, h6 {
   word-wrap: normal;
   position: relative;
   z-index: 1; }
+  @media screen and (min-width: 370px) {
+    .user-name {
+      font-size: 2rem; } }
 
 .user-occupation {
   color: #95A5A6;
-  padding-left: 5px;
   line-height: 1.4em;
   font-size: 0.95rem;
   width: 100%;
@@ -755,16 +785,23 @@ h1, h2, h3, h4, h5, h6 {
   text-overflow: ellipsis;
   white-space: nowrap;
   word-wrap: normal; }
+  @media screen and (min-width: 370px) {
+    .user-occupation {
+      font-size: 1rem; } }
 
 .user-details-container {
   overflow: hidden;
   height: auto;
-  width: 100%; }
+  width: 100%;
+  position: relative; }
 
 .user-graphs-container {
   float: left;
   width: 60%;
   margin-right: 5%; }
+  @media screen and (min-width: 370px) {
+    .user-graphs-container {
+      width: 65%; } }
 
 .user-graph {
   height: 100%;
@@ -778,9 +815,19 @@ h1, h2, h3, h4, h5, h6 {
 
 .user-numbers-container {
   float: right;
+  height: 100%;
   width: 35%;
   text-align: right;
   font-size: 1.2rem; }
+  .user-numbers-container .user-numbers {
+    height: auto;
+    width: 100%;
+    position: absolute;
+    right: 0;
+    bottom: 0; }
+  @media screen and (min-width: 370px) {
+    .user-numbers-container {
+      width: 30%; } }
 
 .user-impressions {
   color: #E67E22; }

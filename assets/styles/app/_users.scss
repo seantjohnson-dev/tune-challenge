@@ -61,6 +61,12 @@ $rand_blue: random(200) - 1;
 	float: right;
 	@include size(calc(100% - #{$avatar_size}) $avatar_size);
 	padding-left: 10px;
+	position: relative;
+	hgroup {
+		@include size(calc(100% - 10px) auto);
+		@include top-left(50%, 10px);
+		@include transform(translate3d(0, -50%, 0));
+	}
 }
 .user-name {
 	color: $black;
@@ -70,23 +76,32 @@ $rand_blue: random(200) - 1;
 	@include ellipsis();
 	position: relative;
 	z-index: 1;
+	@include media($mobile_large_up) {
+		font-size: 2rem;
+	}
 }
 .user-occupation {
 	color: $occupation_gray;
-	padding-left: 5px;
 	line-height: 1.4em;
 	font-size: 0.95rem;
 	width: 100%;
 	@include ellipsis();
+	@include media($mobile_large_up) {
+		font-size: 1rem;
+	}
 }
 .user-details-container {
 	overflow: hidden;
 	@include size(100% auto);
+	position: relative;
 }
 .user-graphs-container {
 	float: left;
 	width: 60%;
 	margin-right: 5%;
+	@include media($mobile_large_up) {
+		width: 65%;
+	}
 }
 .user-graph {
 	@include size(100%);
@@ -99,9 +114,16 @@ $rand_blue: random(200) - 1;
 }
 .user-numbers-container {
 	float: right;
-	width: 35%;
+	@include size(35% 100%);
 	text-align: right;
 	font-size: 1.2rem;
+	.user-numbers {
+		@include size(100% auto);
+		@include bottom-right;
+	}
+	@include media($mobile_large_up) {
+		width: 30%;
+	}
 }
 .user-impressions {
 	color: $impression_orange;

@@ -8,8 +8,4 @@
 			return new Date(model.get('time')).getTime();
 		}
 	});
-	
-	if (!App.conversions) {
-		App.conversions = new App.Collections.ConversionCollection(App.logs.getAllByType("conversion"));
-	}
 })(jQuery, window, Backbone);

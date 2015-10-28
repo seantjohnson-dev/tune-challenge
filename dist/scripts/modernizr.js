@@ -1,5 +1,5 @@
 /*!
- * modernizr v3.0.0
+ * modernizr v3.1.0
  * Build http://modernizr.com/download?-addtest-fnbind-printshiv-testprop-dontmin
  *
  * Copyright (c)
@@ -7,7 +7,6 @@
  *  Paul Irish
  *  Alex Sexton
  *  Ryan Seddon
- *  Alexander Farkas
  *  Patrick Kettner
  *  Stu Cox
  *  Richard Herrera
@@ -37,7 +36,7 @@
 
   var ModernizrProto = {
     // The current version, dummy
-    _version: '3.0.0',
+    _version: '3.1.0',
 
     // Any settings that don't work as separate modules
     // can go in here as configuration.
@@ -483,12 +482,12 @@
   if (!isSVG) {
 
     /**
-     * @preserve HTML5 Shiv 3.7.2 | @afarkas @jdalton @jon_neal @rem | MIT/GPL2 Licensed
+     * @preserve HTML5 Shiv 3.7.3 | @afarkas @jdalton @jon_neal @rem | MIT/GPL2 Licensed
      */
     ;(function(window, document) {
       /*jshint evil:true */
       /** version */
-      var version = '3.7.2';
+      var version = '3.7.3';
 
       /** Preset options */
       var options = window.html5 || {};
@@ -1001,7 +1000,11 @@
       // shiv for print
       shivPrint(document);
 
-    }(this, document));
+      if(typeof module == 'object' && module.exports){
+        module.exports = html5;
+      }
+
+    }(typeof window !== "undefined" ? window : this, document));
   }
 
   ;

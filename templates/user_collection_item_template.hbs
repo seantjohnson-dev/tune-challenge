@@ -2,12 +2,12 @@
 <div class="user-single-content">
 	<figure class="user-bio-container">
 		<div class="user-avatar-container">
-			{{#avatar}}
-				<img src="{{.}}" alt="{{name.full}}"/>
-			{{/avatar}}
-			{{^avatar}}
+			{{#avatar_valid}}
+				<img src="{{avatar}}" alt="{{name.full}}"/>
+			{{/avatar_valid}}
+			{{^avatar_valid}}
 				<div class="first-name-initial">{{name.initials.first}}</div>
-			{{/avatar}}
+			{{/avatar_valid}}
 		</div>
 		<figcaption class="user-bio-text-container">
 			<hgroup>
@@ -24,11 +24,13 @@
 			</figcation>
 		</figure>
 		<aside class="user-numbers-container">
-			<h5 class="user-impressions">{{impressions_output}}</h5>
-			<span class="user-number-label">impressions</span>
-			<h5 class="user-conversions">{{conversions_output}}</h5>
-			<span class="user-number-label">conversions</span>
-			<h4 class="user-total-revenue">${{revenue_output}}</h4>
+			<div class="user-numbers">
+				<h5 class="user-impressions">{{impressions_output}}</h5>
+				<span class="user-number-label">impressions</span>
+				<h5 class="user-conversions">{{conversions_output}}</h5>
+				<span class="user-number-label">conversions</span>
+				<h4 class="user-total-revenue">${{revenue_output}}</h4>
+			</div>
 		</aside>
 	</div>
 </div>
