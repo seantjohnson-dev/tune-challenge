@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+  <!-- Chart.js Sample - http://www.chartjs.org/docs/ -->
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/1.0.2/Chart.min.js'></script>
+</head>
+<body>
+  <canvas id='myChart' width='400' height='100'></canvas>
+
+  <script>
+    var ctx, data, options;
+
+    options = {
+      animation          : false,
+      bezierCurve        : false,
+      pointDot           : false,
+      scaleGridLineColor : 'rgba(0,0,0,0)',
+      scaleLineColor     : 'rgba(0,0,0,0)',
+      scaleShowGridLines : false,
+      scaleShowLabels    : false     
+    };
+
+    data = {
+      labels : ['', '', '', '', '', '', ''],
+      datasets : [{
+        data        : [5, 59, 90, 81, 26, 75, 40],
+        fillColor   : 'rgba(0, 0, 0, 0)',
+        strokeColor : 'rgba(0, 0, 0, 1)'
+      }]
+    };
+
+    ctx = document.getElementById('myChart').getContext('2d');
+    new Chart(ctx).Line(data, options);
+  </script>
+</body>
+</html>

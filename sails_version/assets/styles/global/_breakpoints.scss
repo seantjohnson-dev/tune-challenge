@@ -1,0 +1,39 @@
+$iphone_port_up: new_breakpoint(min-width $iphone_width orientation portrait);
+$iphone_4_land_up: new_breakpoint(min-width $iphone_4_height orientation landscape);
+$iphone_4_only: new_breakpoint(min-width $iphone_width max-width $iphone_4_height);
+$iphone_4_port_only: new_breakpoint(width $iphone_width height $iphone_4_height orientation portrait);
+$iphone_4_land_only: new_breakpoint(width $iphone_4_height orientation landscape);
+
+$iphone_5_land_up: new_breakpoint(min-width $iphone_5_height orientation landscape);
+$iphone_5_only: new_breakpoint(min-width $iphone_width max-width $iphone_5_height min-height ($iphone_4_height + 1) max-height $iphone_5_height);
+$iphone_5_port_only: new_breakpoint(width $iphone_width height $iphone_5_height orientation portrait);
+$iphone_5_land_only: new_breakpoint(width $iphone_5_height height $iphone_width orientation landscape);
+
+$mobile_large_up: new_breakpoint(min-width $mobile_large_width);
+$mobile_large_port_up: new_breakpoint(min-width $mobile_large_width orientation portrait);
+$mobile_large_land_up: new_breakpoint(min-width $mobile_large_height orientation landscape);
+$mobile_large_port_only: new_breakpoint(min-width $mobile_large_width max-width $mobile_large_height orientation portrait);
+$mobile_large_land_only: new_breakpoint(min-width $mobile_large_height max-width $tablet_width orientation landscape);
+
+$ipad_up: new_breakpoint(min-width $ipad_width);
+$ipad_port_up: new_breakpoint(min-width $ipad_width orientation portrait);
+$ipad_land_up: new_breakpoint(min-width $ipad_height orientation landscape);
+$ipad_port_only: new_breakpoint(width $ipad_width orientation portrait);
+$ipad_land_only: new_breakpoint(width $ipad_height orientation landscape);
+
+$tablet_up: new_breakpoint(min-width $tablet_width);
+$tablet_port_up: new_breakpoint(min-width $tablet_width orientation portrait);
+$tablet_land_up: new_breakpoint(min-width $tablet_height orientation landscape);
+$tablet_port_only: new_breakpoint(min-width $tablet_width max-width $tablet_large_width orientation portrait);
+$tablet_land_only: new_breakpoint(min-width $ipad_height max-width $tablet_height orientation landscape);
+
+$tablet_large_up: new_breakpoint(min-width $tablet_large_width);
+$tablet_large_port_up: new_breakpoint(min-width $tablet_large_width orientation portrait);
+$tablet_large_port_only: new_breakpoint(min-width $tablet_large_width max-width $ipad_height orientation portrait);
+
+$laptop_up: new_breakpoint(min-width $laptop_width);
+$laptop_large_up: new_breakpoint(min-width $laptop_large_width);
+
+$desktop_up: new_breakpoint(min-width $desktop_width);
+$desktop_medium_up: new_breakpoint(min-width $desktop_medium_width);
+$desktop_large_up: new_breakpoint(min-width $desktop_large_width);
