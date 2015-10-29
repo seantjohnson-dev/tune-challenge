@@ -1,11 +1,9 @@
 (function($, win, BB, BBM) {
   var TuneApp = BBM.Application.extend($.extend(true, {}, DevLoft));
   window.App = window.Application = window.Application || new TuneApp();
-  App.Templates = Templates;
-  App.Data = {};
-  App.addRegions([
-    ]);
   App.on("start", function (options) {
+    App.Data = AppData;
+    App.Templates = App.Data.Templates;
     var resizeTimer;
     $(win).resize(function() {
       clearTimeout(resizeTimer);
@@ -14,7 +12,16 @@
       }, 250);
       App.vent.trigger(App.Constants.onEveryResize);
     });
-    App.logs = new App.Collections.LogCollection();
+    App.logs = new App.Collections.LogCollection(null, {
+      comparitor: function (a, b) {
+        var aTime = new Data(a.get('time')).getTime(),
+        bTime = new Date(b.get('time')).getTime();
+        if (aTime == bTime) {
+          return 0;
+        }
+        return (a < b) ? -1 : 1;
+      }
+    });
     App.logs.once("reset", function () {
       App.impressions = new App.Collections.ImpressionCollection(App.logs.getAllByType("impression"));
       App.conversions = new App.Collections.ConversionCollection(App.logs.getAllByType("conversion"));
@@ -27,6 +34,8 @@
     BB.history.start({pushState: true});
   });
 
-  App.start();
+  $(function($, win) {
+    App.start();
+  });
 
 })(jQuery, window, Backbone, Marionette);

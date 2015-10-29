@@ -1,0 +1,6387 @@
+
+	[
+		{
+			"time" : "2013-04-09 01:32:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34336
+		},
+		{
+			"time" : "2013-04-09 01:49:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62978
+		},
+		{
+			"time" : "2013-04-09 03:00:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91050
+		},
+		{
+			"time" : "2013-04-09 03:04:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3427
+		},
+		{
+			"time" : "2013-04-09 05:09:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 8908
+		},
+		{
+			"time" : "2013-04-09 05:42:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80064
+		},
+		{
+			"time" : "2013-04-09 07:31:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66219
+		},
+		{
+			"time" : "2013-04-09 07:37:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9510
+		},
+		{
+			"time" : "2013-04-09 07:44:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 21589
+		},
+		{
+			"time" : "2013-04-09 08:06:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7486
+		},
+		{
+			"time" : "2013-04-09 08:08:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 43744
+		},
+		{
+			"time" : "2013-04-09 08:23:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 97572
+		},
+		{
+			"time" : "2013-04-09 08:45:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18576
+		},
+		{
+			"time" : "2013-04-09 09:21:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24473
+		},
+		{
+			"time" : "2013-04-09 10:12:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 96865
+		},
+		{
+			"time" : "2013-04-09 10:44:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76179
+		},
+		{
+			"time" : "2013-04-09 11:31:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 8589
+		},
+		{
+			"time" : "2013-04-09 12:07:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89259
+		},
+		{
+			"time" : "2013-04-09 13:48:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 81130
+		},
+		{
+			"time" : "2013-04-09 15:34:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57748
+		},
+		{
+			"time" : "2013-04-09 18:35:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11499
+		},
+		{
+			"time" : "2013-04-09 19:15:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7419
+		},
+		{
+			"time" : "2013-04-09 19:34:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 97088
+		},
+		{
+			"time" : "2013-04-09 20:12:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61734
+		},
+		{
+			"time" : "2013-04-09 20:28:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27238
+		},
+		{
+			"time" : "2013-04-09 21:58:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66731
+		},
+		{
+			"time" : "2013-04-09 22:31:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 52871
+		},
+		{
+			"time" : "2013-04-09 22:39:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29985
+		},
+		{
+			"time" : "2013-04-09 23:08:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 47187
+		},
+		{
+			"time" : "2013-04-10 00:38:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9596
+		},
+		{
+			"time" : "2013-04-10 00:56:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7471
+		},
+		{
+			"time" : "2013-04-10 01:12:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20480
+		},
+		{
+			"time" : "2013-04-10 03:58:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 78635
+		},
+		{
+			"time" : "2013-04-10 04:10:14",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 81886
+		},
+		{
+			"time" : "2013-04-10 04:21:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3261
+		},
+		{
+			"time" : "2013-04-10 05:08:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33711
+		},
+		{
+			"time" : "2013-04-10 05:53:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91728
+		},
+		{
+			"time" : "2013-04-10 07:33:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34989
+		},
+		{
+			"time" : "2013-04-10 08:21:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3098
+		},
+		{
+			"time" : "2013-04-10 08:33:14",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7847
+		},
+		{
+			"time" : "2013-04-10 08:36:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29546
+		},
+		{
+			"time" : "2013-04-10 10:00:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35406
+		},
+		{
+			"time" : "2013-04-10 10:12:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76251
+		},
+		{
+			"time" : "2013-04-10 12:12:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98714
+		},
+		{
+			"time" : "2013-04-10 12:37:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9444
+		},
+		{
+			"time" : "2013-04-10 13:07:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 64313
+		},
+		{
+			"time" : "2013-04-10 16:33:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 93004
+		},
+		{
+			"time" : "2013-04-10 17:37:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17092
+		},
+		{
+			"time" : "2013-04-10 17:41:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24523
+		},
+		{
+			"time" : "2013-04-10 21:00:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24048
+		},
+		{
+			"time" : "2013-04-10 22:55:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15827
+		},
+		{
+			"time" : "2013-04-10 23:05:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 95558
+		},
+		{
+			"time" : "2013-04-10 23:07:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 19986
+		},
+		{
+			"time" : "2013-04-11 00:14:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29146
+		},
+		{
+			"time" : "2013-04-11 01:04:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41725
+		},
+		{
+			"time" : "2013-04-11 01:29:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 93715
+		},
+		{
+			"time" : "2013-04-11 02:31:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 22982
+		},
+		{
+			"time" : "2013-04-11 04:00:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 95897
+		},
+		{
+			"time" : "2013-04-11 04:47:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29225
+		},
+		{
+			"time" : "2013-04-11 05:41:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15574
+		},
+		{
+			"time" : "2013-04-11 05:49:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15285
+		},
+		{
+			"time" : "2013-04-11 05:54:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 36854
+		},
+		{
+			"time" : "2013-04-11 07:05:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31331
+		},
+		{
+			"time" : "2013-04-11 07:15:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 86044
+		},
+		{
+			"time" : "2013-04-11 07:38:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56245
+		},
+		{
+			"time" : "2013-04-11 07:59:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85088
+		},
+		{
+			"time" : "2013-04-11 08:52:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 75316
+		},
+		{
+			"time" : "2013-04-11 10:44:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 1434
+		},
+		{
+			"time" : "2013-04-11 11:17:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76506
+		},
+		{
+			"time" : "2013-04-11 13:41:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 13990
+		},
+		{
+			"time" : "2013-04-11 14:07:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39368
+		},
+		{
+			"time" : "2013-04-11 14:13:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 95379
+		},
+		{
+			"time" : "2013-04-11 14:20:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 72561
+		},
+		{
+			"time" : "2013-04-11 14:30:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39306
+		},
+		{
+			"time" : "2013-04-11 15:20:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53870
+		},
+		{
+			"time" : "2013-04-11 17:15:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67170
+		},
+		{
+			"time" : "2013-04-11 17:33:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 702
+		},
+		{
+			"time" : "2013-04-11 18:13:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 75796
+		},
+		{
+			"time" : "2013-04-11 18:36:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99301
+		},
+		{
+			"time" : "2013-04-11 20:00:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 49100
+		},
+		{
+			"time" : "2013-04-11 21:00:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 22149
+		},
+		{
+			"time" : "2013-04-11 23:25:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62451
+		},
+		{
+			"time" : "2013-04-12 02:23:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60234
+		},
+		{
+			"time" : "2013-04-12 02:55:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51021
+		},
+		{
+			"time" : "2013-04-12 04:34:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94635
+		},
+		{
+			"time" : "2013-04-12 06:41:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87297
+		},
+		{
+			"time" : "2013-04-12 07:56:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 32377
+		},
+		{
+			"time" : "2013-04-12 08:31:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80023
+		},
+		{
+			"time" : "2013-04-12 08:56:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29315
+		},
+		{
+			"time" : "2013-04-12 09:11:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67849
+		},
+		{
+			"time" : "2013-04-12 09:20:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 12586
+		},
+		{
+			"time" : "2013-04-12 12:10:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79552
+		},
+		{
+			"time" : "2013-04-12 12:57:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58052
+		},
+		{
+			"time" : "2013-04-12 13:59:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79024
+		},
+		{
+			"time" : "2013-04-12 14:22:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80732
+		},
+		{
+			"time" : "2013-04-12 15:45:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45770
+		},
+		{
+			"time" : "2013-04-12 16:02:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5823
+		},
+		{
+			"time" : "2013-04-12 16:41:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41340
+		},
+		{
+			"time" : "2013-04-12 17:17:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 26433
+		},
+		{
+			"time" : "2013-04-12 18:08:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 49662
+		},
+		{
+			"time" : "2013-04-12 20:36:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68824
+		},
+		{
+			"time" : "2013-04-12 20:58:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66455
+		},
+		{
+			"time" : "2013-04-12 21:28:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89915
+		},
+		{
+			"time" : "2013-04-12 21:52:14",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66478
+		},
+		{
+			"time" : "2013-04-12 22:21:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 81983
+		},
+		{
+			"time" : "2013-04-12 22:44:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92303
+		},
+		{
+			"time" : "2013-04-12 23:03:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 37121
+		},
+		{
+			"time" : "2013-04-13 00:09:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24615
+		},
+		{
+			"time" : "2013-04-13 00:52:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62339
+		},
+		{
+			"time" : "2013-04-13 01:44:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 43027
+		},
+		{
+			"time" : "2013-04-13 05:29:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94447
+		},
+		{
+			"time" : "2013-04-13 05:56:14",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91529
+		},
+		{
+			"time" : "2013-04-13 07:40:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 36662
+		},
+		{
+			"time" : "2013-04-13 07:52:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98761
+		},
+		{
+			"time" : "2013-04-13 08:26:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55345
+		},
+		{
+			"time" : "2013-04-13 08:32:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 13121
+		},
+		{
+			"time" : "2013-04-13 08:38:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85507
+		},
+		{
+			"time" : "2013-04-13 09:51:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62099
+		},
+		{
+			"time" : "2013-04-13 12:07:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 72261
+		},
+		{
+			"time" : "2013-04-13 12:14:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18611
+		},
+		{
+			"time" : "2013-04-13 12:42:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60808
+		},
+		{
+			"time" : "2013-04-13 14:31:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 13227
+		},
+		{
+			"time" : "2013-04-13 14:44:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 52806
+		},
+		{
+			"time" : "2013-04-13 14:50:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31218
+		},
+		{
+			"time" : "2013-04-13 15:20:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 38876
+		},
+		{
+			"time" : "2013-04-13 15:48:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65937
+		},
+		{
+			"time" : "2013-04-13 16:21:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9750
+		},
+		{
+			"time" : "2013-04-13 16:53:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 10818
+		},
+		{
+			"time" : "2013-04-13 17:13:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 96804
+		},
+		{
+			"time" : "2013-04-13 17:32:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61343
+		},
+		{
+			"time" : "2013-04-13 17:41:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 86624
+		},
+		{
+			"time" : "2013-04-13 18:24:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45228
+		},
+		{
+			"time" : "2013-04-13 18:34:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67433
+		},
+		{
+			"time" : "2013-04-13 19:30:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23244
+		},
+		{
+			"time" : "2013-04-13 20:24:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 74774
+		},
+		{
+			"time" : "2013-04-13 21:40:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67195
+		},
+		{
+			"time" : "2013-04-13 22:05:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 77873
+		},
+		{
+			"time" : "2013-04-13 22:56:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 72292
+		},
+		{
+			"time" : "2013-04-14 00:30:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11772
+		},
+		{
+			"time" : "2013-04-14 03:49:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65909
+		},
+		{
+			"time" : "2013-04-14 05:30:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35324
+		},
+		{
+			"time" : "2013-04-14 06:41:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60075
+		},
+		{
+			"time" : "2013-04-14 06:42:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27809
+		},
+		{
+			"time" : "2013-04-14 10:19:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58209
+		},
+		{
+			"time" : "2013-04-14 10:24:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28968
+		},
+		{
+			"time" : "2013-04-14 10:58:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71061
+		},
+		{
+			"time" : "2013-04-14 11:50:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69148
+		},
+		{
+			"time" : "2013-04-14 13:28:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2618
+		},
+		{
+			"time" : "2013-04-14 15:14:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 40882
+		},
+		{
+			"time" : "2013-04-14 17:13:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33982
+		},
+		{
+			"time" : "2013-04-14 19:41:14",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85813
+		},
+		{
+			"time" : "2013-04-14 20:23:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 10038
+		},
+		{
+			"time" : "2013-04-14 21:15:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89210
+		},
+		{
+			"time" : "2013-04-14 21:20:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 74147
+		},
+		{
+			"time" : "2013-04-14 21:27:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 37008
+		},
+		{
+			"time" : "2013-04-14 21:27:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71697
+		},
+		{
+			"time" : "2013-04-14 21:34:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 16862
+		},
+		{
+			"time" : "2013-04-14 21:57:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 86420
+		},
+		{
+			"time" : "2013-04-14 21:58:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28755
+		},
+		{
+			"time" : "2013-04-14 22:41:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57503
+		},
+		{
+			"time" : "2013-04-14 23:31:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 942
+		},
+		{
+			"time" : "2013-04-15 00:06:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67630
+		},
+		{
+			"time" : "2013-04-15 01:32:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7313
+		},
+		{
+			"time" : "2013-04-15 01:48:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 81528
+		},
+		{
+			"time" : "2013-04-15 02:20:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29768
+		},
+		{
+			"time" : "2013-04-15 02:41:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 26358
+		},
+		{
+			"time" : "2013-04-15 02:48:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 1651
+		},
+		{
+			"time" : "2013-04-15 05:08:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87535
+		},
+		{
+			"time" : "2013-04-15 05:39:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68982
+		},
+		{
+			"time" : "2013-04-15 06:15:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99807
+		},
+		{
+			"time" : "2013-04-15 06:15:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41694
+		},
+		{
+			"time" : "2013-04-15 08:11:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 96488
+		},
+		{
+			"time" : "2013-04-15 08:49:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33319
+		},
+		{
+			"time" : "2013-04-15 09:03:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5773
+		},
+		{
+			"time" : "2013-04-15 09:05:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 6599
+		},
+		{
+			"time" : "2013-04-15 09:21:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27688
+		},
+		{
+			"time" : "2013-04-15 09:35:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 14628
+		},
+		{
+			"time" : "2013-04-15 09:47:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62787
+		},
+		{
+			"time" : "2013-04-15 10:00:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 32698
+		},
+		{
+			"time" : "2013-04-15 10:31:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 82300
+		},
+		{
+			"time" : "2013-04-15 11:26:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87632
+		},
+		{
+			"time" : "2013-04-15 11:50:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42378
+		},
+		{
+			"time" : "2013-04-15 13:30:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 70499
+		},
+		{
+			"time" : "2013-04-15 14:00:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18543
+		},
+		{
+			"time" : "2013-04-15 14:27:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 95168
+		},
+		{
+			"time" : "2013-04-15 15:02:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27089
+		},
+		{
+			"time" : "2013-04-15 15:14:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84462
+		},
+		{
+			"time" : "2013-04-15 15:55:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99549
+		},
+		{
+			"time" : "2013-04-15 17:15:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 22671
+		},
+		{
+			"time" : "2013-04-15 17:18:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58810
+		},
+		{
+			"time" : "2013-04-15 19:55:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 81384
+		},
+		{
+			"time" : "2013-04-15 20:22:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51426
+		},
+		{
+			"time" : "2013-04-15 20:28:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34008
+		},
+		{
+			"time" : "2013-04-15 21:38:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23969
+		},
+		{
+			"time" : "2013-04-15 21:58:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33316
+		},
+		{
+			"time" : "2013-04-15 22:17:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 4990
+		},
+		{
+			"time" : "2013-04-15 23:03:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5197
+		},
+		{
+			"time" : "2013-04-15 23:33:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27538
+		},
+		{
+			"time" : "2013-04-16 00:33:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90216
+		},
+		{
+			"time" : "2013-04-16 04:10:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27539
+		},
+		{
+			"time" : "2013-04-16 04:18:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84171
+		},
+		{
+			"time" : "2013-04-16 04:41:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20677
+		},
+		{
+			"time" : "2013-04-16 04:51:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 19206
+		},
+		{
+			"time" : "2013-04-16 05:34:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69441
+		},
+		{
+			"time" : "2013-04-16 06:25:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9635
+		},
+		{
+			"time" : "2013-04-16 06:33:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76382
+		},
+		{
+			"time" : "2013-04-16 07:06:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9187
+		},
+		{
+			"time" : "2013-04-16 07:35:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90390
+		},
+		{
+			"time" : "2013-04-16 08:19:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53250
+		},
+		{
+			"time" : "2013-04-16 12:30:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 96464
+		},
+		{
+			"time" : "2013-04-16 12:44:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11548
+		},
+		{
+			"time" : "2013-04-16 12:52:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11907
+		},
+		{
+			"time" : "2013-04-16 16:18:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91747
+		},
+		{
+			"time" : "2013-04-16 16:42:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69643
+		},
+		{
+			"time" : "2013-04-16 16:44:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45372
+		},
+		{
+			"time" : "2013-04-16 17:24:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20957
+		},
+		{
+			"time" : "2013-04-16 18:19:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 21315
+		},
+		{
+			"time" : "2013-04-16 18:24:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56642
+		},
+		{
+			"time" : "2013-04-16 19:24:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39341
+		},
+		{
+			"time" : "2013-04-16 20:27:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83366
+		},
+		{
+			"time" : "2013-04-16 21:27:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9730
+		},
+		{
+			"time" : "2013-04-16 22:41:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51156
+		},
+		{
+			"time" : "2013-04-16 23:55:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 8218
+		},
+		{
+			"time" : "2013-04-17 00:20:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54696
+		},
+		{
+			"time" : "2013-04-17 00:39:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61212
+		},
+		{
+			"time" : "2013-04-17 00:48:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68112
+		},
+		{
+			"time" : "2013-04-17 00:55:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39050
+		},
+		{
+			"time" : "2013-04-17 01:47:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 59781
+		},
+		{
+			"time" : "2013-04-17 03:12:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65315
+		},
+		{
+			"time" : "2013-04-17 03:31:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79990
+		},
+		{
+			"time" : "2013-04-17 04:35:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24067
+		},
+		{
+			"time" : "2013-04-17 05:39:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46815
+		},
+		{
+			"time" : "2013-04-17 05:53:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89064
+		},
+		{
+			"time" : "2013-04-17 06:37:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23480
+		},
+		{
+			"time" : "2013-04-17 08:05:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99609
+		},
+		{
+			"time" : "2013-04-17 08:45:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29290
+		},
+		{
+			"time" : "2013-04-17 09:33:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 22035
+		},
+		{
+			"time" : "2013-04-17 11:07:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 77861
+		},
+		{
+			"time" : "2013-04-17 11:24:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89606
+		},
+		{
+			"time" : "2013-04-17 12:55:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35363
+		},
+		{
+			"time" : "2013-04-17 15:44:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34387
+		},
+		{
+			"time" : "2013-04-17 16:01:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7031
+		},
+		{
+			"time" : "2013-04-17 19:45:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 48604
+		},
+		{
+			"time" : "2013-04-17 20:06:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94497
+		},
+		{
+			"time" : "2013-04-17 21:23:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65903
+		},
+		{
+			"time" : "2013-04-17 21:55:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 37279
+		},
+		{
+			"time" : "2013-04-17 22:24:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15440
+		},
+		{
+			"time" : "2013-04-17 22:36:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85410
+		},
+		{
+			"time" : "2013-04-17 23:02:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 70109
+		},
+		{
+			"time" : "2013-04-17 23:02:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 6583
+		},
+		{
+			"time" : "2013-04-18 00:11:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 88724
+		},
+		{
+			"time" : "2013-04-18 00:19:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62423
+		},
+		{
+			"time" : "2013-04-18 00:36:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57541
+		},
+		{
+			"time" : "2013-04-18 01:55:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83044
+		},
+		{
+			"time" : "2013-04-18 03:45:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51956
+		},
+		{
+			"time" : "2013-04-18 04:23:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84076
+		},
+		{
+			"time" : "2013-04-18 04:29:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68788
+		},
+		{
+			"time" : "2013-04-18 04:38:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54411
+		},
+		{
+			"time" : "2013-04-18 05:49:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76815
+		},
+		{
+			"time" : "2013-04-18 06:31:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 74860
+		},
+		{
+			"time" : "2013-04-18 06:57:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29396
+		},
+		{
+			"time" : "2013-04-18 07:36:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80547
+		},
+		{
+			"time" : "2013-04-18 08:59:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 21878
+		},
+		{
+			"time" : "2013-04-18 10:05:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33794
+		},
+		{
+			"time" : "2013-04-18 13:26:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90815
+		},
+		{
+			"time" : "2013-04-18 14:08:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5700
+		},
+		{
+			"time" : "2013-04-18 14:12:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2899
+		},
+		{
+			"time" : "2013-04-18 15:55:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65582
+		},
+		{
+			"time" : "2013-04-18 16:05:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45508
+		},
+		{
+			"time" : "2013-04-18 17:02:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87171
+		},
+		{
+			"time" : "2013-04-18 17:17:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56620
+		},
+		{
+			"time" : "2013-04-18 17:54:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34841
+		},
+		{
+			"time" : "2013-04-18 18:13:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71277
+		},
+		{
+			"time" : "2013-04-18 19:40:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 72366
+		},
+		{
+			"time" : "2013-04-18 19:46:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 75635
+		},
+		{
+			"time" : "2013-04-18 20:09:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7580
+		},
+		{
+			"time" : "2013-04-18 21:32:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28119
+		},
+		{
+			"time" : "2013-04-18 21:39:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29254
+		},
+		{
+			"time" : "2013-04-18 21:42:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46234
+		},
+		{
+			"time" : "2013-04-18 22:15:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84696
+		},
+		{
+			"time" : "2013-04-18 23:58:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84036
+		},
+		{
+			"time" : "2013-04-19 01:37:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61934
+		},
+		{
+			"time" : "2013-04-19 01:39:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 50420
+		},
+		{
+			"time" : "2013-04-19 02:39:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 49834
+		},
+		{
+			"time" : "2013-04-19 02:46:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31354
+		},
+		{
+			"time" : "2013-04-19 02:50:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58128
+		},
+		{
+			"time" : "2013-04-19 03:16:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 64488
+		},
+		{
+			"time" : "2013-04-19 03:26:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20889
+		},
+		{
+			"time" : "2013-04-19 03:32:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 75017
+		},
+		{
+			"time" : "2013-04-19 04:28:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58485
+		},
+		{
+			"time" : "2013-04-19 04:41:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31392
+		},
+		{
+			"time" : "2013-04-19 07:00:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 22385
+		},
+		{
+			"time" : "2013-04-19 07:25:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 169
+		},
+		{
+			"time" : "2013-04-19 09:14:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2106
+		},
+		{
+			"time" : "2013-04-19 09:24:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 47175
+		},
+		{
+			"time" : "2013-04-19 09:42:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 25815
+		},
+		{
+			"time" : "2013-04-19 10:21:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90946
+		},
+		{
+			"time" : "2013-04-19 10:48:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62510
+		},
+		{
+			"time" : "2013-04-19 11:17:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28936
+		},
+		{
+			"time" : "2013-04-19 12:22:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83663
+		},
+		{
+			"time" : "2013-04-19 15:18:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 10236
+		},
+		{
+			"time" : "2013-04-19 15:34:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56729
+		},
+		{
+			"time" : "2013-04-19 16:15:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17781
+		},
+		{
+			"time" : "2013-04-19 19:17:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 4780
+		},
+		{
+			"time" : "2013-04-19 19:19:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89252
+		},
+		{
+			"time" : "2013-04-19 19:32:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18857
+		},
+		{
+			"time" : "2013-04-19 19:47:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35258
+		},
+		{
+			"time" : "2013-04-19 19:49:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61462
+		},
+		{
+			"time" : "2013-04-19 19:53:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53220
+		},
+		{
+			"time" : "2013-04-19 19:56:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 43424
+		},
+		{
+			"time" : "2013-04-19 20:04:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 1890
+		},
+		{
+			"time" : "2013-04-19 20:42:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79884
+		},
+		{
+			"time" : "2013-04-19 22:13:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51436
+		},
+		{
+			"time" : "2013-04-19 22:59:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57067
+		},
+		{
+			"time" : "2013-04-19 23:21:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 96024
+		},
+		{
+			"time" : "2013-04-20 00:03:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 48803
+		},
+		{
+			"time" : "2013-04-20 01:50:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42026
+		},
+		{
+			"time" : "2013-04-20 01:56:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98081
+		},
+		{
+			"time" : "2013-04-20 02:10:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39780
+		},
+		{
+			"time" : "2013-04-20 03:00:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61414
+		},
+		{
+			"time" : "2013-04-20 04:53:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 95657
+		},
+		{
+			"time" : "2013-04-20 04:57:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 52157
+		},
+		{
+			"time" : "2013-04-20 05:22:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 10018
+		},
+		{
+			"time" : "2013-04-20 07:15:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89527
+		},
+		{
+			"time" : "2013-04-20 07:17:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92387
+		},
+		{
+			"time" : "2013-04-20 07:23:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 44916
+		},
+		{
+			"time" : "2013-04-20 08:30:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 25054
+		},
+		{
+			"time" : "2013-04-20 08:55:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20960
+		},
+		{
+			"time" : "2013-04-20 10:17:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 74620
+		},
+		{
+			"time" : "2013-04-20 10:31:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7043
+		},
+		{
+			"time" : "2013-04-20 10:31:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55543
+		},
+		{
+			"time" : "2013-04-20 11:10:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94658
+		},
+		{
+			"time" : "2013-04-20 12:17:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 64638
+		},
+		{
+			"time" : "2013-04-20 12:19:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 32342
+		},
+		{
+			"time" : "2013-04-20 12:29:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69908
+		},
+		{
+			"time" : "2013-04-20 12:30:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79075
+		},
+		{
+			"time" : "2013-04-20 12:49:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 50858
+		},
+		{
+			"time" : "2013-04-20 12:56:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 59448
+		},
+		{
+			"time" : "2013-04-20 13:17:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94965
+		},
+		{
+			"time" : "2013-04-20 13:22:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 97093
+		},
+		{
+			"time" : "2013-04-20 13:42:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 48739
+		},
+		{
+			"time" : "2013-04-20 14:14:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56831
+		},
+		{
+			"time" : "2013-04-20 14:47:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68207
+		},
+		{
+			"time" : "2013-04-20 15:05:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35361
+		},
+		{
+			"time" : "2013-04-20 15:42:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3601
+		},
+		{
+			"time" : "2013-04-20 17:26:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99719
+		},
+		{
+			"time" : "2013-04-20 17:46:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 10013
+		},
+		{
+			"time" : "2013-04-20 19:12:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 74800
+		},
+		{
+			"time" : "2013-04-20 19:19:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3228
+		},
+		{
+			"time" : "2013-04-20 20:58:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2797
+		},
+		{
+			"time" : "2013-04-20 21:09:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17111
+		},
+		{
+			"time" : "2013-04-20 23:09:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 43178
+		},
+		{
+			"time" : "2013-04-21 01:14:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29846
+		},
+		{
+			"time" : "2013-04-21 01:29:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 718
+		},
+		{
+			"time" : "2013-04-21 02:07:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83826
+		},
+		{
+			"time" : "2013-04-21 02:16:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91057
+		},
+		{
+			"time" : "2013-04-21 03:00:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 14920
+		},
+		{
+			"time" : "2013-04-21 03:12:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63397
+		},
+		{
+			"time" : "2013-04-21 03:18:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7365
+		},
+		{
+			"time" : "2013-04-21 03:59:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 95836
+		},
+		{
+			"time" : "2013-04-21 04:29:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7504
+		},
+		{
+			"time" : "2013-04-21 05:05:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34190
+		},
+		{
+			"time" : "2013-04-21 05:57:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 14866
+		},
+		{
+			"time" : "2013-04-21 06:25:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69982
+		},
+		{
+			"time" : "2013-04-21 06:59:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62824
+		},
+		{
+			"time" : "2013-04-21 07:14:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90207
+		},
+		{
+			"time" : "2013-04-21 07:24:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29051
+		},
+		{
+			"time" : "2013-04-21 07:51:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 47887
+		},
+		{
+			"time" : "2013-04-21 09:11:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 21390
+		},
+		{
+			"time" : "2013-04-21 09:25:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80015
+		},
+		{
+			"time" : "2013-04-21 10:32:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39419
+		},
+		{
+			"time" : "2013-04-21 12:08:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 88639
+		},
+		{
+			"time" : "2013-04-21 12:42:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 59015
+		},
+		{
+			"time" : "2013-04-21 13:00:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98443
+		},
+		{
+			"time" : "2013-04-21 13:03:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94115
+		},
+		{
+			"time" : "2013-04-21 13:03:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60399
+		},
+		{
+			"time" : "2013-04-21 15:06:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5810
+		},
+		{
+			"time" : "2013-04-21 17:25:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69811
+		},
+		{
+			"time" : "2013-04-21 18:06:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20678
+		},
+		{
+			"time" : "2013-04-21 18:07:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60163
+		},
+		{
+			"time" : "2013-04-21 18:44:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 38095
+		},
+		{
+			"time" : "2013-04-21 19:13:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7032
+		},
+		{
+			"time" : "2013-04-21 19:52:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15683
+		},
+		{
+			"time" : "2013-04-21 19:54:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83796
+		},
+		{
+			"time" : "2013-04-21 20:08:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33257
+		},
+		{
+			"time" : "2013-04-21 21:05:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83937
+		},
+		{
+			"time" : "2013-04-21 21:36:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24320
+		},
+		{
+			"time" : "2013-04-21 22:19:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94105
+		},
+		{
+			"time" : "2013-04-21 23:15:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94172
+		},
+		{
+			"time" : "2013-04-21 23:26:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 81684
+		},
+		{
+			"time" : "2013-04-21 23:40:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 12104
+		},
+		{
+			"time" : "2013-04-21 23:48:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 6784
+		},
+		{
+			"time" : "2013-04-22 01:34:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33004
+		},
+		{
+			"time" : "2013-04-22 01:35:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53075
+		},
+		{
+			"time" : "2013-04-22 02:32:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 21519
+		},
+		{
+			"time" : "2013-04-22 03:55:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99201
+		},
+		{
+			"time" : "2013-04-22 05:24:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80341
+		},
+		{
+			"time" : "2013-04-22 05:38:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29532
+		},
+		{
+			"time" : "2013-04-22 06:09:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 36219
+		},
+		{
+			"time" : "2013-04-22 06:14:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85157
+		},
+		{
+			"time" : "2013-04-22 06:34:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 26236
+		},
+		{
+			"time" : "2013-04-22 06:41:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42018
+		},
+		{
+			"time" : "2013-04-22 10:28:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11501
+		},
+		{
+			"time" : "2013-04-22 11:09:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89749
+		},
+		{
+			"time" : "2013-04-22 11:43:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 72639
+		},
+		{
+			"time" : "2013-04-22 13:50:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57555
+		},
+		{
+			"time" : "2013-04-22 13:55:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46163
+		},
+		{
+			"time" : "2013-04-22 15:22:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63296
+		},
+		{
+			"time" : "2013-04-22 16:32:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5054
+		},
+		{
+			"time" : "2013-04-22 18:16:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87325
+		},
+		{
+			"time" : "2013-04-22 19:02:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58929
+		},
+		{
+			"time" : "2013-04-22 20:48:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 13616
+		},
+		{
+			"time" : "2013-04-22 21:34:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 16640
+		},
+		{
+			"time" : "2013-04-22 22:37:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 14446
+		},
+		{
+			"time" : "2013-04-22 22:53:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55326
+		},
+		{
+			"time" : "2013-04-22 23:16:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79305
+		},
+		{
+			"time" : "2013-04-22 23:22:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94433
+		},
+		{
+			"time" : "2013-04-22 23:22:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15549
+		},
+		{
+			"time" : "2013-04-23 00:34:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42274
+		},
+		{
+			"time" : "2013-04-23 00:57:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 40743
+		},
+		{
+			"time" : "2013-04-23 03:11:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92542
+		},
+		{
+			"time" : "2013-04-23 05:08:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57402
+		},
+		{
+			"time" : "2013-04-23 06:22:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 64650
+		},
+		{
+			"time" : "2013-04-23 06:35:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2151
+		},
+		{
+			"time" : "2013-04-23 08:13:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 75961
+		},
+		{
+			"time" : "2013-04-23 08:54:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39514
+		},
+		{
+			"time" : "2013-04-23 09:39:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63526
+		},
+		{
+			"time" : "2013-04-23 12:31:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 16973
+		},
+		{
+			"time" : "2013-04-23 12:47:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76989
+		},
+		{
+			"time" : "2013-04-23 14:37:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31054
+		},
+		{
+			"time" : "2013-04-23 15:30:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18313
+		},
+		{
+			"time" : "2013-04-23 16:30:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 38586
+		},
+		{
+			"time" : "2013-04-23 17:09:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 48538
+		},
+		{
+			"time" : "2013-04-23 17:41:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 70730
+		},
+		{
+			"time" : "2013-04-23 18:29:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98283
+		},
+		{
+			"time" : "2013-04-23 18:33:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 78549
+		},
+		{
+			"time" : "2013-04-23 18:38:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 47949
+		},
+		{
+			"time" : "2013-04-23 19:17:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 37677
+		},
+		{
+			"time" : "2013-04-23 19:19:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89165
+		},
+		{
+			"time" : "2013-04-23 19:57:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79671
+		},
+		{
+			"time" : "2013-04-23 21:24:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39103
+		},
+		{
+			"time" : "2013-04-23 23:55:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83283
+		},
+		{
+			"time" : "2013-04-24 00:15:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9958
+		},
+		{
+			"time" : "2013-04-24 01:12:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60104
+		},
+		{
+			"time" : "2013-04-24 02:49:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2735
+		},
+		{
+			"time" : "2013-04-24 04:02:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 6743
+		},
+		{
+			"time" : "2013-04-24 05:32:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11682
+		},
+		{
+			"time" : "2013-04-24 05:34:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 25124
+		},
+		{
+			"time" : "2013-04-24 06:23:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 30926
+		},
+		{
+			"time" : "2013-04-24 07:30:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94980
+		},
+		{
+			"time" : "2013-04-24 07:34:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66079
+		},
+		{
+			"time" : "2013-04-24 08:13:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83099
+		},
+		{
+			"time" : "2013-04-24 08:14:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67875
+		},
+		{
+			"time" : "2013-04-24 08:58:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62362
+		},
+		{
+			"time" : "2013-04-24 09:09:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 4128
+		},
+		{
+			"time" : "2013-04-24 10:55:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42907
+		},
+		{
+			"time" : "2013-04-24 12:48:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 589
+		},
+		{
+			"time" : "2013-04-24 12:55:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84945
+		},
+		{
+			"time" : "2013-04-24 13:03:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83338
+		},
+		{
+			"time" : "2013-04-24 13:11:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17394
+		},
+		{
+			"time" : "2013-04-24 13:31:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57730
+		},
+		{
+			"time" : "2013-04-24 14:33:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51110
+		},
+		{
+			"time" : "2013-04-24 14:35:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33645
+		},
+		{
+			"time" : "2013-04-24 15:57:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54981
+		},
+		{
+			"time" : "2013-04-24 16:51:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45942
+		},
+		{
+			"time" : "2013-04-24 17:37:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 43717
+		},
+		{
+			"time" : "2013-04-24 21:03:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31947
+		},
+		{
+			"time" : "2013-04-24 21:38:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90003
+		},
+		{
+			"time" : "2013-04-24 23:28:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18815
+		},
+		{
+			"time" : "2013-04-25 02:12:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18681
+		},
+		{
+			"time" : "2013-04-25 03:02:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66919
+		},
+		{
+			"time" : "2013-04-25 03:11:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18127
+		},
+		{
+			"time" : "2013-04-25 03:20:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60069
+		},
+		{
+			"time" : "2013-04-25 04:07:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 36095
+		},
+		{
+			"time" : "2013-04-25 04:21:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80528
+		},
+		{
+			"time" : "2013-04-25 04:45:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18847
+		},
+		{
+			"time" : "2013-04-25 05:12:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 22000
+		},
+		{
+			"time" : "2013-04-25 05:49:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63555
+		},
+		{
+			"time" : "2013-04-25 06:19:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65711
+		},
+		{
+			"time" : "2013-04-25 06:48:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29571
+		},
+		{
+			"time" : "2013-04-25 07:18:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87705
+		},
+		{
+			"time" : "2013-04-25 08:31:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 59116
+		},
+		{
+			"time" : "2013-04-25 08:51:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84154
+		},
+		{
+			"time" : "2013-04-25 09:59:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42780
+		},
+		{
+			"time" : "2013-04-25 10:15:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79106
+		},
+		{
+			"time" : "2013-04-25 11:11:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 6443
+		},
+		{
+			"time" : "2013-04-25 11:17:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33834
+		},
+		{
+			"time" : "2013-04-25 13:11:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 52556
+		},
+		{
+			"time" : "2013-04-25 13:48:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29255
+		},
+		{
+			"time" : "2013-04-25 13:59:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 88692
+		},
+		{
+			"time" : "2013-04-25 14:24:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85995
+		},
+		{
+			"time" : "2013-04-25 14:27:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7903
+		},
+		{
+			"time" : "2013-04-25 14:39:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 37810
+		},
+		{
+			"time" : "2013-04-25 15:40:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79693
+		},
+		{
+			"time" : "2013-04-25 16:10:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45989
+		},
+		{
+			"time" : "2013-04-25 16:36:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23568
+		},
+		{
+			"time" : "2013-04-25 17:05:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 88130
+		},
+		{
+			"time" : "2013-04-25 17:15:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23267
+		},
+		{
+			"time" : "2013-04-25 17:48:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56799
+		},
+		{
+			"time" : "2013-04-25 17:50:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 86543
+		},
+		{
+			"time" : "2013-04-25 18:47:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 12479
+		},
+		{
+			"time" : "2013-04-25 19:46:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31514
+		},
+		{
+			"time" : "2013-04-25 19:59:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34060
+		},
+		{
+			"time" : "2013-04-25 20:01:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15428
+		},
+		{
+			"time" : "2013-04-25 21:52:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45674
+		},
+		{
+			"time" : "2013-04-25 21:54:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66616
+		},
+		{
+			"time" : "2013-04-25 21:55:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9025
+		},
+		{
+			"time" : "2013-04-25 22:19:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84801
+		},
+		{
+			"time" : "2013-04-25 22:20:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17420
+		},
+		{
+			"time" : "2013-04-25 22:47:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84551
+		},
+		{
+			"time" : "2013-04-25 23:39:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87739
+		},
+		{
+			"time" : "2013-04-25 23:45:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68648
+		},
+		{
+			"time" : "2013-04-26 00:14:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11944
+		},
+		{
+			"time" : "2013-04-26 01:45:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69244
+		},
+		{
+			"time" : "2013-04-26 03:42:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 37776
+		},
+		{
+			"time" : "2013-04-26 04:03:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 43808
+		},
+		{
+			"time" : "2013-04-26 04:53:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56905
+		},
+		{
+			"time" : "2013-04-26 05:11:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54993
+		},
+		{
+			"time" : "2013-04-26 05:27:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9067
+		},
+		{
+			"time" : "2013-04-26 05:30:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99629
+		},
+		{
+			"time" : "2013-04-26 06:01:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99660
+		},
+		{
+			"time" : "2013-04-26 06:06:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17248
+		},
+		{
+			"time" : "2013-04-26 06:46:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85795
+		},
+		{
+			"time" : "2013-04-26 07:37:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 73333
+		},
+		{
+			"time" : "2013-04-26 07:38:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71410
+		},
+		{
+			"time" : "2013-04-26 09:46:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54470
+		},
+		{
+			"time" : "2013-04-26 13:09:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66349
+		},
+		{
+			"time" : "2013-04-26 13:23:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90240
+		},
+		{
+			"time" : "2013-04-26 13:29:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60765
+		},
+		{
+			"time" : "2013-04-26 13:59:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83902
+		},
+		{
+			"time" : "2013-04-26 14:00:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 95351
+		},
+		{
+			"time" : "2013-04-26 14:32:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76198
+		},
+		{
+			"time" : "2013-04-26 16:27:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 73405
+		},
+		{
+			"time" : "2013-04-26 17:19:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 4118
+		},
+		{
+			"time" : "2013-04-26 18:13:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34822
+		},
+		{
+			"time" : "2013-04-26 18:21:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 82062
+		},
+		{
+			"time" : "2013-04-26 18:27:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56169
+		},
+		{
+			"time" : "2013-04-26 18:42:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55471
+		},
+		{
+			"time" : "2013-04-26 21:03:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69572
+		},
+		{
+			"time" : "2013-04-26 21:07:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15852
+		},
+		{
+			"time" : "2013-04-26 21:49:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92980
+		},
+		{
+			"time" : "2013-04-26 21:49:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5777
+		},
+		{
+			"time" : "2013-04-26 22:06:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 50454
+		},
+		{
+			"time" : "2013-04-26 22:07:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84737
+		},
+		{
+			"time" : "2013-04-26 22:42:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 86589
+		},
+		{
+			"time" : "2013-04-26 22:43:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31759
+		},
+		{
+			"time" : "2013-04-26 22:55:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46965
+		},
+		{
+			"time" : "2013-04-26 23:36:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87513
+		},
+		{
+			"time" : "2013-04-26 23:49:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28174
+		},
+		{
+			"time" : "2013-04-26 23:54:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92910
+		},
+		{
+			"time" : "2013-04-27 00:15:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23046
+		},
+		{
+			"time" : "2013-04-27 01:33:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 37386
+		},
+		{
+			"time" : "2013-04-27 02:12:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 37705
+		},
+		{
+			"time" : "2013-04-27 02:17:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28287
+		},
+		{
+			"time" : "2013-04-27 03:42:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55686
+		},
+		{
+			"time" : "2013-04-27 03:55:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71253
+		},
+		{
+			"time" : "2013-04-27 06:25:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 13819
+		},
+		{
+			"time" : "2013-04-27 07:12:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45662
+		},
+		{
+			"time" : "2013-04-27 07:29:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69179
+		},
+		{
+			"time" : "2013-04-27 07:32:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9032
+		},
+		{
+			"time" : "2013-04-27 07:33:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58409
+		},
+		{
+			"time" : "2013-04-27 07:56:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61624
+		},
+		{
+			"time" : "2013-04-27 08:36:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41408
+		},
+		{
+			"time" : "2013-04-27 09:34:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 82973
+		},
+		{
+			"time" : "2013-04-27 09:57:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45200
+		},
+		{
+			"time" : "2013-04-27 10:31:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67619
+		},
+		{
+			"time" : "2013-04-27 11:04:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 14413
+		},
+		{
+			"time" : "2013-04-27 11:12:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5451
+		},
+		{
+			"time" : "2013-04-27 15:31:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 97252
+		},
+		{
+			"time" : "2013-04-27 15:37:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55979
+		},
+		{
+			"time" : "2013-04-27 17:28:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 1436
+		},
+		{
+			"time" : "2013-04-27 18:25:14",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91189
+		},
+		{
+			"time" : "2013-04-27 19:33:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 73056
+		},
+		{
+			"time" : "2013-04-27 20:28:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80802
+		},
+		{
+			"time" : "2013-04-27 20:30:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63750
+		},
+		{
+			"time" : "2013-04-27 21:07:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65033
+		},
+		{
+			"time" : "2013-04-27 22:12:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24348
+		},
+		{
+			"time" : "2013-04-27 22:29:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27658
+		},
+		{
+			"time" : "2013-04-27 22:32:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 14697
+		},
+		{
+			"time" : "2013-04-27 22:53:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29581
+		},
+		{
+			"time" : "2013-04-27 23:00:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42011
+		},
+		{
+			"time" : "2013-04-27 23:32:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 93729
+		},
+		{
+			"time" : "2013-04-28 00:20:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56513
+		},
+		{
+			"time" : "2013-04-28 01:14:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15621
+		},
+		{
+			"time" : "2013-04-28 02:13:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 78040
+		},
+		{
+			"time" : "2013-04-28 02:29:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 88947
+		},
+		{
+			"time" : "2013-04-28 02:37:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92626
+		},
+		{
+			"time" : "2013-04-28 02:44:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23679
+		},
+		{
+			"time" : "2013-04-28 03:49:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5489
+		},
+		{
+			"time" : "2013-04-28 04:26:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60162
+		},
+		{
+			"time" : "2013-04-28 04:46:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39984
+		},
+		{
+			"time" : "2013-04-28 05:03:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91389
+		},
+		{
+			"time" : "2013-04-28 07:27:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15932
+		},
+		{
+			"time" : "2013-04-28 08:00:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 19729
+		},
+		{
+			"time" : "2013-04-28 08:22:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27793
+		},
+		{
+			"time" : "2013-04-28 08:42:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20941
+		},
+		{
+			"time" : "2013-04-28 08:53:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24325
+		},
+		{
+			"time" : "2013-04-28 09:01:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83227
+		},
+		{
+			"time" : "2013-04-28 10:20:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27468
+		},
+		{
+			"time" : "2013-04-28 11:24:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46793
+		},
+		{
+			"time" : "2013-04-28 11:50:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46902
+		},
+		{
+			"time" : "2013-04-28 15:03:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34745
+		},
+		{
+			"time" : "2013-04-28 15:19:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15762
+		},
+		{
+			"time" : "2013-04-28 15:47:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 26032
+		},
+		{
+			"time" : "2013-04-28 16:07:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91827
+		},
+		{
+			"time" : "2013-04-28 18:10:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 10363
+		},
+		{
+			"time" : "2013-04-28 18:17:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 70779
+		},
+		{
+			"time" : "2013-04-28 18:42:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31002
+		},
+		{
+			"time" : "2013-04-28 18:53:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 40065
+		},
+		{
+			"time" : "2013-04-29 00:34:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71692
+		},
+		{
+			"time" : "2013-04-29 01:39:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18617
+		},
+		{
+			"time" : "2013-04-29 01:57:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2660
+		},
+		{
+			"time" : "2013-04-29 02:54:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 19224
+		},
+		{
+			"time" : "2013-04-29 03:41:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 606
+		},
+		{
+			"time" : "2013-04-29 05:05:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66385
+		},
+		{
+			"time" : "2013-04-29 06:11:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 56542
+		},
+		{
+			"time" : "2013-04-29 06:13:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20734
+		},
+		{
+			"time" : "2013-04-29 06:37:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58557
+		},
+		{
+			"time" : "2013-04-29 06:54:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 991
+		},
+		{
+			"time" : "2013-04-29 10:11:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 6395
+		},
+		{
+			"time" : "2013-04-29 11:37:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 78422
+		},
+		{
+			"time" : "2013-04-29 12:14:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23713
+		},
+		{
+			"time" : "2013-04-29 12:47:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 88404
+		},
+		{
+			"time" : "2013-04-29 13:58:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20509
+		},
+		{
+			"time" : "2013-04-29 15:06:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90415
+		},
+		{
+			"time" : "2013-04-29 17:28:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60847
+		},
+		{
+			"time" : "2013-04-29 17:31:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33721
+		},
+		{
+			"time" : "2013-04-29 17:35:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98824
+		},
+		{
+			"time" : "2013-04-29 17:53:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 78150
+		},
+		{
+			"time" : "2013-04-29 18:31:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 50562
+		},
+		{
+			"time" : "2013-04-29 20:25:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 1012
+		},
+		{
+			"time" : "2013-04-29 20:26:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90031
+		},
+		{
+			"time" : "2013-04-29 21:02:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89761
+		},
+		{
+			"time" : "2013-04-29 22:03:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85983
+		},
+		{
+			"time" : "2013-04-30 00:22:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7752
+		},
+		{
+			"time" : "2013-04-30 00:48:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29827
+		},
+		{
+			"time" : "2013-04-30 01:17:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62398
+		},
+		{
+			"time" : "2013-04-30 01:53:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3964
+		},
+		{
+			"time" : "2013-04-30 06:29:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41571
+		},
+		{
+			"time" : "2013-04-30 06:29:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 79970
+		},
+		{
+			"time" : "2013-04-30 07:21:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17572
+		},
+		{
+			"time" : "2013-04-30 08:11:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53097
+		},
+		{
+			"time" : "2013-04-30 09:39:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87741
+		},
+		{
+			"time" : "2013-04-30 10:32:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 50857
+		},
+		{
+			"time" : "2013-04-30 13:12:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 48789
+		},
+		{
+			"time" : "2013-04-30 13:24:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87214
+		},
+		{
+			"time" : "2013-04-30 13:27:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29990
+		},
+		{
+			"time" : "2013-04-30 13:34:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 74618
+		},
+		{
+			"time" : "2013-04-30 14:24:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58130
+		},
+		{
+			"time" : "2013-04-30 14:55:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76717
+		},
+		{
+			"time" : "2013-04-30 18:11:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2360
+		},
+		{
+			"time" : "2013-04-30 18:47:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71223
+		},
+		{
+			"time" : "2013-04-30 19:38:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2038
+		},
+		{
+			"time" : "2013-04-30 19:39:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68612
+		},
+		{
+			"time" : "2013-04-30 20:09:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34039
+		},
+		{
+			"time" : "2013-04-30 22:12:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 21911
+		},
+		{
+			"time" : "2013-04-30 22:19:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66382
+		},
+		{
+			"time" : "2013-04-30 22:26:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91417
+		},
+		{
+			"time" : "2013-04-30 22:37:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17766
+		},
+		{
+			"time" : "2013-04-30 23:21:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 19797
+		},
+		{
+			"time" : "2013-05-01 01:41:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 25597
+		},
+		{
+			"time" : "2013-05-01 01:55:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 83805
+		},
+		{
+			"time" : "2013-05-01 03:59:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20377
+		},
+		{
+			"time" : "2013-05-01 05:10:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53371
+		},
+		{
+			"time" : "2013-05-01 05:26:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 97229
+		},
+		{
+			"time" : "2013-05-01 07:07:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57683
+		},
+		{
+			"time" : "2013-05-01 07:16:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18214
+		},
+		{
+			"time" : "2013-05-01 08:16:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65935
+		},
+		{
+			"time" : "2013-05-01 11:12:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 75606
+		},
+		{
+			"time" : "2013-05-01 11:32:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99075
+		},
+		{
+			"time" : "2013-05-01 12:01:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 97049
+		},
+		{
+			"time" : "2013-05-01 12:16:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 86840
+		},
+		{
+			"time" : "2013-05-01 13:54:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54133
+		},
+		{
+			"time" : "2013-05-01 14:07:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60855
+		},
+		{
+			"time" : "2013-05-01 14:52:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58663
+		},
+		{
+			"time" : "2013-05-01 15:03:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39063
+		},
+		{
+			"time" : "2013-05-01 15:18:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35672
+		},
+		{
+			"time" : "2013-05-01 15:26:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92250
+		},
+		{
+			"time" : "2013-05-01 15:49:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92975
+		},
+		{
+			"time" : "2013-05-01 17:00:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76490
+		},
+		{
+			"time" : "2013-05-01 17:06:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 47015
+		},
+		{
+			"time" : "2013-05-01 17:18:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35845
+		},
+		{
+			"time" : "2013-05-01 17:37:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17075
+		},
+		{
+			"time" : "2013-05-01 18:32:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28525
+		},
+		{
+			"time" : "2013-05-01 20:09:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 7149
+		},
+		{
+			"time" : "2013-05-01 21:02:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63200
+		},
+		{
+			"time" : "2013-05-01 21:50:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 86421
+		},
+		{
+			"time" : "2013-05-01 22:10:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3089
+		},
+		{
+			"time" : "2013-05-02 00:00:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65541
+		},
+		{
+			"time" : "2013-05-02 00:54:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98977
+		},
+		{
+			"time" : "2013-05-02 00:57:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58733
+		},
+		{
+			"time" : "2013-05-02 01:14:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 1742
+		},
+		{
+			"time" : "2013-05-02 01:15:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 32858
+		},
+		{
+			"time" : "2013-05-02 01:36:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76952
+		},
+		{
+			"time" : "2013-05-02 02:04:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 30522
+		},
+		{
+			"time" : "2013-05-02 05:52:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61216
+		},
+		{
+			"time" : "2013-05-02 05:52:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69295
+		},
+		{
+			"time" : "2013-05-02 06:08:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87894
+		},
+		{
+			"time" : "2013-05-02 08:17:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 19782
+		},
+		{
+			"time" : "2013-05-02 09:13:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 25686
+		},
+		{
+			"time" : "2013-05-02 09:20:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 93879
+		},
+		{
+			"time" : "2013-05-02 09:44:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 36328
+		},
+		{
+			"time" : "2013-05-02 09:58:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35392
+		},
+		{
+			"time" : "2013-05-02 10:46:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34370
+		},
+		{
+			"time" : "2013-05-02 10:53:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3642
+		},
+		{
+			"time" : "2013-05-02 11:32:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29996
+		},
+		{
+			"time" : "2013-05-02 11:59:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39473
+		},
+		{
+			"time" : "2013-05-02 13:27:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 4026
+		},
+		{
+			"time" : "2013-05-02 13:55:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 19482
+		},
+		{
+			"time" : "2013-05-02 15:57:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 74600
+		},
+		{
+			"time" : "2013-05-02 16:37:08",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 48345
+		},
+		{
+			"time" : "2013-05-02 16:44:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60928
+		},
+		{
+			"time" : "2013-05-02 16:51:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80354
+		},
+		{
+			"time" : "2013-05-02 17:31:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 73842
+		},
+		{
+			"time" : "2013-05-02 18:27:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 73057
+		},
+		{
+			"time" : "2013-05-02 18:47:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 93448
+		},
+		{
+			"time" : "2013-05-02 18:48:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 73282
+		},
+		{
+			"time" : "2013-05-02 19:46:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 78393
+		},
+		{
+			"time" : "2013-05-02 20:15:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61323
+		},
+		{
+			"time" : "2013-05-02 20:30:14",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63610
+		},
+		{
+			"time" : "2013-05-02 22:39:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63523
+		},
+		{
+			"time" : "2013-05-02 22:58:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 25664
+		},
+		{
+			"time" : "2013-05-03 00:32:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 47089
+		},
+		{
+			"time" : "2013-05-03 01:24:10",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76936
+		},
+		{
+			"time" : "2013-05-03 02:06:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15883
+		},
+		{
+			"time" : "2013-05-03 02:06:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65827
+		},
+		{
+			"time" : "2013-05-03 02:13:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76748
+		},
+		{
+			"time" : "2013-05-03 02:29:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 32951
+		},
+		{
+			"time" : "2013-05-03 03:05:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 26539
+		},
+		{
+			"time" : "2013-05-03 03:06:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 47274
+		},
+		{
+			"time" : "2013-05-03 03:07:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28871
+		},
+		{
+			"time" : "2013-05-03 06:01:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28811
+		},
+		{
+			"time" : "2013-05-03 06:03:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89463
+		},
+		{
+			"time" : "2013-05-03 08:15:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 16663
+		},
+		{
+			"time" : "2013-05-03 08:53:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90939
+		},
+		{
+			"time" : "2013-05-03 13:54:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 1577
+		},
+		{
+			"time" : "2013-05-03 14:36:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15496
+		},
+		{
+			"time" : "2013-05-03 15:16:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 91015
+		},
+		{
+			"time" : "2013-05-03 16:20:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2802
+		},
+		{
+			"time" : "2013-05-03 17:00:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 89490
+		},
+		{
+			"time" : "2013-05-03 17:20:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42598
+		},
+		{
+			"time" : "2013-05-03 17:37:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2012
+		},
+		{
+			"time" : "2013-05-03 18:08:57",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68949
+		},
+		{
+			"time" : "2013-05-03 18:20:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 34527
+		},
+		{
+			"time" : "2013-05-03 18:27:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 80419
+		},
+		{
+			"time" : "2013-05-03 19:53:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 93657
+		},
+		{
+			"time" : "2013-05-03 20:09:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2098
+		},
+		{
+			"time" : "2013-05-03 21:53:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5062
+		},
+		{
+			"time" : "2013-05-03 22:36:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 82448
+		},
+		{
+			"time" : "2013-05-03 22:43:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46431
+		},
+		{
+			"time" : "2013-05-03 23:56:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41652
+		},
+		{
+			"time" : "2013-05-04 00:04:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 47926
+		},
+		{
+			"time" : "2013-05-04 00:13:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 57079
+		},
+		{
+			"time" : "2013-05-04 01:39:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29319
+		},
+		{
+			"time" : "2013-05-04 02:02:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51765
+		},
+		{
+			"time" : "2013-05-04 02:24:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 88385
+		},
+		{
+			"time" : "2013-05-04 03:48:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 87676
+		},
+		{
+			"time" : "2013-05-04 05:56:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 30829
+		},
+		{
+			"time" : "2013-05-04 05:58:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 4451
+		},
+		{
+			"time" : "2013-05-04 07:51:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61145
+		},
+		{
+			"time" : "2013-05-04 07:57:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92218
+		},
+		{
+			"time" : "2013-05-04 09:24:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18579
+		},
+		{
+			"time" : "2013-05-04 09:51:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62497
+		},
+		{
+			"time" : "2013-05-04 09:55:59",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 73340
+		},
+		{
+			"time" : "2013-05-04 09:58:14",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68221
+		},
+		{
+			"time" : "2013-05-04 11:26:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58869
+		},
+		{
+			"time" : "2013-05-04 11:31:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54884
+		},
+		{
+			"time" : "2013-05-04 12:56:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 49380
+		},
+		{
+			"time" : "2013-05-04 13:32:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84603
+		},
+		{
+			"time" : "2013-05-04 14:43:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29579
+		},
+		{
+			"time" : "2013-05-04 16:51:07",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41193
+		},
+		{
+			"time" : "2013-05-04 16:57:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28135
+		},
+		{
+			"time" : "2013-05-04 17:29:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 38585
+		},
+		{
+			"time" : "2013-05-04 17:35:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 93438
+		},
+		{
+			"time" : "2013-05-04 18:44:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 49491
+		},
+		{
+			"time" : "2013-05-04 19:59:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 48006
+		},
+		{
+			"time" : "2013-05-04 20:40:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46571
+		},
+		{
+			"time" : "2013-05-04 21:26:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33153
+		},
+		{
+			"time" : "2013-05-04 23:08:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46535
+		},
+		{
+			"time" : "2013-05-04 23:13:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45693
+		},
+		{
+			"time" : "2013-05-05 00:32:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67664
+		},
+		{
+			"time" : "2013-05-05 01:01:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24054
+		},
+		{
+			"time" : "2013-05-05 01:04:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35383
+		},
+		{
+			"time" : "2013-05-05 01:11:23",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 40166
+		},
+		{
+			"time" : "2013-05-05 02:05:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 23603
+		},
+		{
+			"time" : "2013-05-05 02:09:05",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 36132
+		},
+		{
+			"time" : "2013-05-05 03:16:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51289
+		},
+		{
+			"time" : "2013-05-05 04:00:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29428
+		},
+		{
+			"time" : "2013-05-05 04:07:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 574
+		},
+		{
+			"time" : "2013-05-05 06:27:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84413
+		},
+		{
+			"time" : "2013-05-05 06:40:58",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53795
+		},
+		{
+			"time" : "2013-05-05 07:06:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20716
+		},
+		{
+			"time" : "2013-05-05 07:19:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55034
+		},
+		{
+			"time" : "2013-05-05 07:21:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31993
+		},
+		{
+			"time" : "2013-05-05 08:22:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27761
+		},
+		{
+			"time" : "2013-05-05 10:09:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 10405
+		},
+		{
+			"time" : "2013-05-05 10:53:32",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11397
+		},
+		{
+			"time" : "2013-05-05 11:11:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3738
+		},
+		{
+			"time" : "2013-05-05 11:53:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 762
+		},
+		{
+			"time" : "2013-05-05 13:29:28",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41634
+		},
+		{
+			"time" : "2013-05-05 14:36:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 92416
+		},
+		{
+			"time" : "2013-05-05 19:36:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 64623
+		},
+		{
+			"time" : "2013-05-05 21:20:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54861
+		},
+		{
+			"time" : "2013-05-05 21:31:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 30697
+		},
+		{
+			"time" : "2013-05-05 22:02:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 69019
+		},
+		{
+			"time" : "2013-05-05 23:17:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 44016
+		},
+		{
+			"time" : "2013-05-05 23:41:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 67418
+		},
+		{
+			"time" : "2013-05-06 01:07:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2943
+		},
+		{
+			"time" : "2013-05-06 01:23:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 46201
+		},
+		{
+			"time" : "2013-05-06 01:41:17",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53161
+		},
+		{
+			"time" : "2013-05-06 02:03:37",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9735
+		},
+		{
+			"time" : "2013-05-06 02:38:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 77428
+		},
+		{
+			"time" : "2013-05-06 04:24:46",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 78045
+		},
+		{
+			"time" : "2013-05-06 06:10:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 29684
+		},
+		{
+			"time" : "2013-05-06 06:49:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 74286
+		},
+		{
+			"time" : "2013-05-06 07:15:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 97169
+		},
+		{
+			"time" : "2013-05-06 07:36:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45054
+		},
+		{
+			"time" : "2013-05-06 08:16:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 16707
+		},
+		{
+			"time" : "2013-05-06 08:37:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 8686
+		},
+		{
+			"time" : "2013-05-06 08:38:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 70455
+		},
+		{
+			"time" : "2013-05-06 08:40:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35050
+		},
+		{
+			"time" : "2013-05-06 08:50:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98357
+		},
+		{
+			"time" : "2013-05-06 08:57:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 17754
+		},
+		{
+			"time" : "2013-05-06 09:32:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 35795
+		},
+		{
+			"time" : "2013-05-06 13:21:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 22931
+		},
+		{
+			"time" : "2013-05-06 15:35:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18031
+		},
+		{
+			"time" : "2013-05-06 16:42:09",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63635
+		},
+		{
+			"time" : "2013-05-06 16:49:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85118
+		},
+		{
+			"time" : "2013-05-06 17:35:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 77486
+		},
+		{
+			"time" : "2013-05-06 18:09:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61180
+		},
+		{
+			"time" : "2013-05-06 18:57:54",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 2522
+		},
+		{
+			"time" : "2013-05-06 20:11:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 20879
+		},
+		{
+			"time" : "2013-05-06 22:48:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54236
+		},
+		{
+			"time" : "2013-05-06 22:55:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 44655
+		},
+		{
+			"time" : "2013-05-06 23:10:36",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 25781
+		},
+		{
+			"time" : "2013-05-06 23:13:50",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 58923
+		},
+		{
+			"time" : "2013-05-06 23:47:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 8763
+		},
+		{
+			"time" : "2013-05-06 23:53:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63035
+		},
+		{
+			"time" : "2013-05-07 01:08:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28760
+		},
+		{
+			"time" : "2013-05-07 01:16:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 43997
+		},
+		{
+			"time" : "2013-05-07 01:59:52",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 66412
+		},
+		{
+			"time" : "2013-05-07 02:04:44",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 53306
+		},
+		{
+			"time" : "2013-05-07 02:35:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 16997
+		},
+		{
+			"time" : "2013-05-07 02:50:30",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68848
+		},
+		{
+			"time" : "2013-05-07 03:41:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 6555
+		},
+		{
+			"time" : "2013-05-07 03:48:12",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 64763
+		},
+		{
+			"time" : "2013-05-07 05:50:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 24969
+		},
+		{
+			"time" : "2013-05-07 06:21:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3461
+		},
+		{
+			"time" : "2013-05-07 07:16:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 5546
+		},
+		{
+			"time" : "2013-05-07 07:56:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 41573
+		},
+		{
+			"time" : "2013-05-07 07:57:39",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11958
+		},
+		{
+			"time" : "2013-05-07 08:11:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11866
+		},
+		{
+			"time" : "2013-05-07 08:45:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 15034
+		},
+		{
+			"time" : "2013-05-07 08:57:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71230
+		},
+		{
+			"time" : "2013-05-07 10:18:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55933
+		},
+		{
+			"time" : "2013-05-07 11:13:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 49484
+		},
+		{
+			"time" : "2013-05-07 12:54:16",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 98091
+		},
+		{
+			"time" : "2013-05-07 13:07:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 31078
+		},
+		{
+			"time" : "2013-05-07 13:10:06",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 71769
+		},
+		{
+			"time" : "2013-05-07 13:29:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 3634
+		},
+		{
+			"time" : "2013-05-07 13:45:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 55520
+		},
+		{
+			"time" : "2013-05-07 14:06:04",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 10317
+		},
+		{
+			"time" : "2013-05-07 14:11:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 94598
+		},
+		{
+			"time" : "2013-05-07 14:19:31",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 253
+		},
+		{
+			"time" : "2013-05-07 14:35:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42370
+		},
+		{
+			"time" : "2013-05-07 15:34:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9185
+		},
+		{
+			"time" : "2013-05-07 17:01:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85312
+		},
+		{
+			"time" : "2013-05-07 17:44:55",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 88596
+		},
+		{
+			"time" : "2013-05-07 17:46:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 43755
+		},
+		{
+			"time" : "2013-05-07 17:46:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 72646
+		},
+		{
+			"time" : "2013-05-07 17:51:45",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 63219
+		},
+		{
+			"time" : "2013-05-07 19:35:01",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 59108
+		},
+		{
+			"time" : "2013-05-07 19:48:02",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 84898
+		},
+		{
+			"time" : "2013-05-07 19:48:25",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 22893
+		},
+		{
+			"time" : "2013-05-07 19:56:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 85604
+		},
+		{
+			"time" : "2013-05-07 23:43:00",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 18311
+		},
+		{
+			"time" : "2013-05-08 00:26:18",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 8544
+		},
+		{
+			"time" : "2013-05-08 01:44:19",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28989
+		},
+		{
+			"time" : "2013-05-08 02:28:11",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 33620
+		},
+		{
+			"time" : "2013-05-08 04:05:41",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 6091
+		},
+		{
+			"time" : "2013-05-08 04:23:33",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 65093
+		},
+		{
+			"time" : "2013-05-08 05:12:03",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 90799
+		},
+		{
+			"time" : "2013-05-08 05:13:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 16667
+		},
+		{
+			"time" : "2013-05-08 05:18:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 40510
+		},
+		{
+			"time" : "2013-05-08 05:39:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 96991
+		},
+		{
+			"time" : "2013-05-08 05:45:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 28159
+		},
+		{
+			"time" : "2013-05-08 08:14:24",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 36779
+		},
+		{
+			"time" : "2013-05-08 08:26:53",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 60550
+		},
+		{
+			"time" : "2013-05-08 08:43:20",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 68417
+		},
+		{
+			"time" : "2013-05-08 09:39:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 49485
+		},
+		{
+			"time" : "2013-05-08 10:54:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 61959
+		},
+		{
+			"time" : "2013-05-08 11:06:48",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 16935
+		},
+		{
+			"time" : "2013-05-08 11:55:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 48192
+		},
+		{
+			"time" : "2013-05-08 13:37:42",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 59542
+		},
+		{
+			"time" : "2013-05-08 13:58:21",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 54932
+		},
+		{
+			"time" : "2013-05-08 14:35:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 51171
+		},
+		{
+			"time" : "2013-05-08 14:37:49",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 9099
+		},
+		{
+			"time" : "2013-05-08 14:55:26",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 641
+		},
+		{
+			"time" : "2013-05-08 15:08:15",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 45584
+		},
+		{
+			"time" : "2013-05-08 15:33:56",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 62581
+		},
+		{
+			"time" : "2013-05-08 16:15:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 13204
+		},
+		{
+			"time" : "2013-05-08 16:38:51",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 27413
+		},
+		{
+			"time" : "2013-05-08 17:02:13",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 13395
+		},
+		{
+			"time" : "2013-05-08 18:17:47",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 11181
+		},
+		{
+			"time" : "2013-05-08 18:23:22",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 99083
+		},
+		{
+			"time" : "2013-05-08 18:32:38",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 76221
+		},
+		{
+			"time" : "2013-05-08 19:56:34",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 86843
+		},
+		{
+			"time" : "2013-05-08 20:08:40",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 93315
+		},
+		{
+			"time" : "2013-05-08 20:53:43",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 39950
+		},
+		{
+			"time" : "2013-05-08 21:26:27",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 81036
+		},
+		{
+			"time" : "2013-05-08 22:03:29",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 42281
+		},
+		{
+			"time" : "2013-05-08 22:55:35",
+			"type" : "impression",
+			"user_id" : 31,
+			"revenue" : 0,
+			"id" : 97528
+		}
+	]

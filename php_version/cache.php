@@ -7,25 +7,46 @@
   global $data;
   global $conv_id;
   global $imp_id;
-  global $cache_paths;
+  global $api_paths;
 
-  $cache_paths = array(
+  $api_paths = array(
     'dirs' => array(),
     'files' => array()
   );
-  $cache_paths['dirs']['data_dir'] = __DIR__ . DS . 'data' . DS;
-  $cache_paths['dirs']['cache_dir'] = __DIR__ . DS . 'cache' . DS;
-  $cache_paths['dirs']['users_dir'] = $cache_paths['dirs']['cache_dir'] . 'users' . DS;
-  $cache_paths['dirs']['logs_dir'] = $cache_paths['dirs']['cache_dir'] . 'logs' . DS;
-  $cache_paths['dirs']['conversions_dir'] =$cache_paths['dirs']['logs_dir'] . 'conversions' . DS;
-  $cache_paths['dirs']['impressions_dir'] = $cache_paths['dirs']['logs_dir'] . 'impressions' . DS;
+  $api_paths['dirs']['data_dir'] = __DIR__ . DS . 'data' . DS;
+  $api_paths['files']['data_user_file'] = $api_paths['dirs']['data_dir'] . 'users.json';
+  $api_paths['files']['data_user_min_file'] = $api_paths['dirs']['data_dir'] . 'users.min.json';
+  $api_paths['files']['data_log_file'] = $api_paths['dirs']['data_dir'] . 'logs.json';
+  $api_paths['files']['data_log_min_file'] = $api_paths['dirs']['data_dir'] . 'logs.min.json';
 
-  $cache_paths['files']['data_user_file'] = $cache_paths['dirs']['data_dir'] . 'users.json';
-  $cache_paths['files']['data_log_file'] = $cache_paths['dirs']['data_dir'] . 'logs.json';
-  $cache_paths['files']['users_file'] = $cache_paths['dirs']['cache_dir'] . 'users.json';
-  $cache_paths['files']['conversions_file'] = $cache_paths['dirs']['conversions_dir'] . 'conversions.json';
-  $cache_paths['files']['impressions_file'] = $cache_paths['dirs']['impressions_dir'] . 'impressions.json';
+  $api_paths['dirs']['api_base_dir'] = __DIR__ . DS . 'api' . DS;
+  $api_paths['dirs']['api_base_min_dir'] = $api_paths['dirs']['api_base_dir'] . 'min' . DS;
+  $api_paths['dirs']['api_user_dir'] = $api_paths['dirs']['api_base_dir'] . 'users' . DS;
+  $api_paths['dirs']['api_user_min_dir'] = $api_paths['dirs']['api_base_min_dir'] . 'users' . DS;
+  $api_paths['dirs']['api_user_model_dir'] = $api_paths['dirs']['api_user_dir'] . DS . 'models' . DS;
+  $api_paths['dirs']['api_user_model_min_dir'] = $api_paths['dirs']['api_user_min_dir'] . DS . 'models' . DS;
+  $api_paths['dirs']['api_user_page_dir'] = $api_paths['dirs']['api_user_dir'] . DS . 'pages' . DS;
+  $api_paths['dirs']['api_user_page_min_dir'] = $api_paths['dirs']['api_user_min_dir'] . DS . 'pages' . DS;
 
+  $api_paths['dirs']['api_log_dir'] = $api_paths['dirs']['api_base_dir'] . 'logs' . DS;
+  $api_paths['dirs']['api_log_min_dir'] = $api_paths['dirs']['api_base_min_dir'] . 'logs' . DS;
+
+  $api_paths['dirs']['api_conversion_dir'] =$api_paths['dirs']['api_log_dir'] . 'conversions' . DS;
+  $api_paths['dirs']['api_conversion_min_dir'] =$api_paths['dirs']['api_log_min_dir'] . 'conversions' . DS;
+  $api_paths['dirs']['api_conversion_model_dir'] =$api_paths['dirs']['api_conversion_dir'] . 'models' . DS;
+  $api_paths['dirs']['api_conversion_model_min_dir'] =$api_paths['dirs']['api_conversion_min_dir'] . 'models' . DS;
+
+  $api_paths['dirs']['api_impression_dir'] = $api_paths['dirs']['api_log_dir'] . 'impressions' . DS;
+  $api_paths['dirs']['api_impression_min_dir'] = $api_paths['dirs']['api_log_min_dir'] . 'impressions' . DS;
+  $api_paths['dirs']['api_impression_model_dir'] = $api_paths['dirs']['api_impression_dir'] . 'models' . DS;
+  $api_paths['dirs']['api_impression_model_min_dir'] = $api_paths['dirs']['api_impression_min_dir'] . 'models' . DS;
+
+  $api_paths['files']['api_user_file'] = $api_paths['dirs']['api_user_dir'] . 'index.json';
+  $api_paths['files']['api_user_min_file'] = $api_paths['dirs']['api_user_min_dir'] . 'index.json';
+  $api_paths['files']['api_conversion_file'] = $api_paths['dirs']['api_conversion_dir'] . 'index.json';
+  $api_paths['files']['api_conversion_min_file'] = $api_paths['dirs']['api_conversion_min_dir'] . 'index.json';
+  $api_paths['files']['api_impression_file'] = $api_paths['dirs']['api_impression_dir'] . 'index.json';
+  $api_paths['files']['api_impression_min_file'] = $api_paths['dirs']['api_impression_min_dir'] . 'index.json';
   $conv_id = 0;
   $imp_id = 0;
 
@@ -47,6 +68,10 @@
       return 0;
     }
     return ($atime < $btime) ? -1 : 1;
+  }
+
+  function sort_users_by_name($a, $b) {
+    return strcmp($a->name, $b->name);
   }
 
   function pretty_user_json($string = "") {
@@ -72,7 +97,7 @@
     return $string;
   }
 
-  function pretty_logs_json($string = "") {
+  function pretty_log_json($string = "") {
     $string = str_replace('"time":', '"time" : ', $string);
     $string = str_replace('"type":', '"type" : ', $string);
     $string = str_replace('"user_id":', '"user_id" : ', $string);
@@ -89,71 +114,115 @@
     return $string;
   }
 
-  function create_impressions_file() {
+  function create_api_impression_file() {
     global $data;
-    global $cache_paths;
+    global $api_paths;
+    if (!file_exists($api_paths['dirs']['api_impression_dir'])) {
+      mkdir($api_paths['dirs']['api_impression_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_impression_model_dir'], 0755, true);
+    }
+    if (!file_exists($api_paths['dirs']['api_impression_min_dir'])) {
+      mkdir($api_paths['dirs']['api_impression_min_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_impression_model_min_dir'], 0755, true);
+    }
     foreach($data['impressions'] as $ui_key=>$ui_val) {
       usort($data['impressions'][$ui_key], 'sort_log_by_time');
+      $ui_string = json_encode($data['impressions'][$ui_key]);
+      file_put_contents($api_paths['dirs']['api_impression_model_min_dir'] . $ui_key . '.json', $ui_string);
+      $ui_string = pretty_log_json($ui_string);
+      file_put_contents($api_paths['dirs']['api_impression_model_dir'] . $ui_key . '.json', $ui_string);
     }
     sort($data['impressions']);
     $imp_string = json_encode($data['impressions']);
-    $imp_string = pretty_logs_json($imp_string);
-    file_put_contents($cache_paths['files']['impressions_file'], $imp_string);
+    file_put_contents($api_paths['files']['api_impression_min_file'], $imp_string);
+    $imp_string = pretty_log_json($imp_string);
+    file_put_contents($api_paths['files']['api_impression_file'], $imp_string);
   }
 
-  function create_conversions_file() {
+  function create_api_conversion_file() {
     global $data;
-    global $cache_paths;
+    global $api_paths;
+    if (!file_exists($api_paths['dirs']['api_conversion_dir'])) {
+      mkdir($api_paths['dirs']['api_conversion_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_conversion_model_dir'], 0755, true);
+    }
+    if (!file_exists($api_paths['dirs']['api_conversion_min_dir'])) {
+      mkdir($api_paths['dirs']['api_conversion_min_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_conversion_model_min_dir'], 0755, true);
+    }
     foreach($data['conversions'] as $uc_key=>$uc_val) {
       usort($data['conversions'][$uc_key], 'sort_log_by_time');
+      $uc_string = json_encode($data['conversions'][$uc_key]);
+      file_put_contents($api_paths['dirs']['api_conversion_model_min_dir'] . $uc_key . '.json', $uc_string);
+      $uc_string = pretty_log_json($uc_string);
+      file_put_contents($api_paths['dirs']['api_conversion_model_dir'] . $uc_key . '.json', $uc_string);
     }
     sort($data['conversions']);
     $conv_string = json_encode($data['conversions']);
-    $conv_string = pretty_logs_json($conv_string);
-    file_put_contents($cache_paths['files']['conversions_file'], $conv_string);
+    file_put_contents($api_paths['files']['api_conversion_min_file'], $conv_string);
+    $conv_string = pretty_log_json($conv_string);
+    file_put_contents($api_paths['files']['api_conversion_file'], $conv_string);
   }
 
-  function create_users_files() {
+  function create_user_page_files($users = array()) {
     global $data;
-    global $cache_paths;
-    create_logs_files();
-    $users = json_decode(file_get_contents($cache_paths['files']['data_user_file']));
-    if (!file_exists($cache_paths['dirs']['users_dir'])) {
-      mkdir($cache_paths['dirs']['users_dir'], 0755, true);
+    global $api_paths;
+    $pages = array_chunk($users, 9);
+    foreach($pages as $p=>$page) {
+      $page_string = json_encode($page);
+      file_put_contents($api_paths['dirs']['api_user_page_min_dir'] . ($p+1) . '.json', $page_string);
+      $page_string = pretty_user_json($page_string);
+      file_put_contents($api_paths['dirs']['api_user_page_dir'] . ($p+1) . '.json', $page_string);
     }
+  }
+
+  function create_api_user_files() {
+    global $data;
+    global $api_paths;
+    if (!file_exists($api_paths['dirs']['api_user_dir'])) {
+      mkdir($api_paths['dirs']['api_user_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_user_page_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_user_model_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_user_min_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_user_page_min_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_user_model_min_dir'], 0755, true);
+    }
+    $users = json_decode(file_get_contents($api_paths['files']['data_user_min_file']));
+    usort($users, 'sort_users_by_name');
+    $user_string = json_encode($users);
+    file_put_contents($api_paths['files']['api_user_min_file'], $user_string);
+    $user_string = pretty_user_json($user_string);
+    file_put_contents($api_paths['files']['api_user_file'], $user_string);
+    usort($users, 'sort_users_by_name');
+    create_user_page_files($users);
+    create_log_files();
     foreach($users as $u=>$user) {
       $user->occupation = ucwords($user->occupation);
-      $user->logs = array(
-        'impressions' => $data['impressions'][$user->id - 1],
-        'conversions' => $data['conversions'][$user->id - 1]
-      );
       $data['users'][$u] = $user;
       $user_string = json_encode($user);
+      file_put_contents($api_paths['dirs']['api_user_model_min_dir'] . $user->id . '.json', $user_string);
       $user_string = pretty_user_json($user_string);
-      file_put_contents($cache_paths['dirs']['users_dir'] . 'user_' . $user->id . '.json', $user_string);
+      file_put_contents($api_paths['dirs']['api_user_model_dir'] . $user->id . '.json', $user_string);
     }
-    sort($data['users']);
-    $user_string = json_encode($data['users']);
-    $user_string = pretty_user_json($user_string);
-    file_put_contents($cache_paths['files']['users_file'], $user_string);
   }
 
-  function create_logs_files() {
-    global $cache_paths;
+  function create_log_files() {
+    global $api_paths;
     global $data;
-    $log_array = json_decode(file_get_contents($cache_paths['files']['data_log_file']));
+    $log_array = json_decode(file_get_contents($api_paths['files']['data_log_min_file']));
     for ($i = 0, $l = count($log_array); $i < $l; $i++) {
       $log = $log_array[$i];
+      if (!isset($log->id)) {
+        $log->id = $i + 1;
+      }
       switch(strtolower($log->type)) {
         case 'impression':
-        $log->id = get_impression_id();
         if (!isset($data['impressions'][$log->user_id])) {
           $data['impressions'][$log->user_id] = array();
         }
         $data['impressions'][$log->user_id][] = $log;
         break;
         case 'conversion':
-        $log->id = get_conversion_id();
         if (!isset($data['conversions'][$log->user_id])) {
           $data['conversions'][$log->user_id] = array();
         }
@@ -163,28 +232,28 @@
       unset($log_array[$i]);
     }
     unset($log_array);
-    create_conversions_file();
-    create_impressions_file();
+    create_api_conversion_file();
+    create_api_impression_file();
   }
 
   function build_cache() {
     global $data;
-    global $cache_paths;
+    global $api_paths;
     $data = array(
       'impressions' => array(),
       'conversions' => array(),
       'users' => array()
     );
-    if (!file_exists($cache_paths['dirs']['cache_dir'])) {
-      mkdir($cache_paths['dirs']['cache_dir'], 0755, true);
-      mkdir($cache_paths['dirs']['logs_dir'], 0755, true);
-      mkdir($cache_paths['dirs']['conversions_dir'], 0755, true);
-      mkdir($cache_paths['dirs']['impressions_dir'], 0755, true);
-      create_users_files();
+    if (!file_exists($api_paths['dirs']['api_base_dir'])) {
+      mkdir($api_paths['dirs']['api_base_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_base_min_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_log_dir'], 0755, true);
+      mkdir($api_paths['dirs']['api_log_min_dir'], 0755, true);
+      create_api_user_files();
     } else {
-      $data['conversions'] = json_decode(file_get_contents($cache_paths['files']['conversions_file']));
-      $data['impressions'] = json_decode(file_get_contents($cache_paths['files']['impressions_file']));
-      $data['users'] = json_decode(file_get_contents($cache_paths['files']['users_file']));
+      $data['conversions'] = json_decode(file_get_contents($api_paths['files']['api_conversion_min_file']));
+      $data['impressions'] = json_decode(file_get_contents($api_paths['files']['api_impression_min_file']));
+      $data['users'] = json_decode(file_get_contents($api_paths['files']['api_user_min_file']));
     }
   }
 

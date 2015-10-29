@@ -1,4 +1,9 @@
-<?php include ('cache.php'); ?>
+<?php 
+  // include ('cache.php');
+  if ( !defined('DS') ) {
+    define('DS', DIRECTORY_SEPARATOR);
+  }
+ ?>
 <!Doctype html>
 <html>
   <head>
@@ -26,6 +31,7 @@
   <div id="body-scripts">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="/dist/scripts/modernizr.js"></script>
+    <script src="/dist/scripts/main.js"></script>
       <?php
         // This isn't the prettiest template loading method either. See if you can improve this later.
         $templates = array();
@@ -37,21 +43,15 @@
           }
         }
       ?>
-      <script id="templates">
-        Templates = <?php echo json_encode($templates); ?>;
+      <script id="json-templates">
+        AppData = {};
+        AppData.Templates = <?php echo json_encode($templates); ?>;
       </script>
-      <script>
-        $(function($, win) {
-          // Kick the whole thing off.
-          $.ajax({
-            url: "/dist/scripts/main.js",
-            dataType: "script",
-          }).done(function () {
-            console.log("script loaded!", arguments);
-          }).fail(function () {
-            console.log("script failed!", arguments);
-          });
-        });
+      <script id="json-users">
+        AppData.Users = <?php echo file_get_contents(__DIR__ . DS . 'data' . DS . 'users.min.json'); ?>;
+      </script>
+      <script id="json-logs">
+        AppData.Logs = <?php echo file_get_contents(__DIR__ . DS . 'data' . DS . 'logs.min.json'); ?>;
       </script>
   </div>
 </body>

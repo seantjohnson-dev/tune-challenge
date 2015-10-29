@@ -8,7 +8,6 @@
         "scripts/vendor/devloft/behaviors/*.js",
         "scripts/vendor/devloft/behaviorGroups/*.js",
         "scripts/app.js",
-        "scripts/data/*.js",
         "scripts/models/log_model.js",
         "scripts/collections/log_collection.js",
         "scripts/models/impression_model.js",
@@ -31,6 +30,7 @@
           "../bower_components/underscore/underscore.js",
           "../bower_components/backbone/backbone.js",
           "../bower_components/backbone.marionette/lib/backbone.marionette.js",
+          "../bower_components/gsap/uncompressed/TweenMax.js",
           "../bower_components/handlebars/handlebars.js",
           "../bower_components/Chart.js/Chart.js"
       ],
