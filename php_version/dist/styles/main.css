@@ -644,7 +644,11 @@ html, body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700; }
 
-#main-layout {
+#site-header, #site-footer {
+  height: 0;
+  width: 100%; }
+
+#main-region {
   background: #7F8C8D;
   height: 100%;
   width: 100%;
@@ -668,7 +672,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0;
   left: 0;
   z-index: 10000;
-  background: url(http://ddof8wj1m41ni.cloudfront.net/tune/img/common/brand/header/tune-logo-sitebrand.png) no-repeat 50% center;
+  background: url(http://ddof8wj1m41ni.cloudfront.net/tune/img/common/brand/header/tune-logo-sitebrand.png) no-repeat 50% center #fff;
   opacity: 1;
   visibility: visible;
   -webkit-transition: opacity 1s;
@@ -736,7 +740,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   text-align: center;
   line-height: 70px;
-  background: #1969b2;
+  background: #bf992c;
   color: #fff;
   font-size: 2.6rem; }
 

@@ -1,7 +1,10 @@
 (function($, win, BB, BBM) {
   var TuneApp = BBM.Application.extend($.extend(true, {}, DevLoft));
   window.App = window.Application = window.Application || new TuneApp();
+  App.Templates = Templates;
   App.Data = {};
+  App.addRegions([
+    ]);
   App.on("start", function (options) {
     var resizeTimer;
     $(win).resize(function() {
@@ -17,21 +20,13 @@
       App.conversions = new App.Collections.ConversionCollection(App.logs.getAllByType("conversion"));
       App.users = new App.Collections.UserCollection();
       App.users.add(App.Data.Users);
-      var mainLayout = new App.Layouts.MainLayout();
-      App.bodyRegion.show(mainLayout);
+      App.mainLayout = new App.Layouts.MainLayout();
       $(win).resize();
     });
     App.logs.reset(App.Data.Logs);
     BB.history.start({pushState: true});
   });
 
-  
-  $(function($, win) {
-    // Kick the whole thing off.
-    App.addRegions({
-      bodyRegion: "#body-region"
-    });
-    App.start();
-  });
+  App.start();
 
 })(jQuery, window, Backbone, Marionette);

@@ -10,27 +10,49 @@
     <link rel="apple-touch-icon-precomposed" sizes="120x120" href="//www.tune.com/favicon-120.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="//www.tune.com/favicon-114.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="//www.tune.com/favicon-72.png">
-    <link rel="apple-touch-icon-precomposed" href="//www.tune.com/favicon-57.png"> 
+    <link rel="apple-touch-icon-precomposed" href="//www.tune.com/favicon-57.png">
   </head>
 <body>
-  <div class="body-region" id="body-region"></div>
-  <script src="dist/scripts/modernizr.js"></script>
-  <script src="dist/scripts/main.js"></script>
-  <?php
-    // This isn't the prettiest template loading method either. See if you can improve this later.
-    $templates = array();
-    foreach(glob('templates/*.hbs') as $filename) {
-      if (is_file($filename)) {
-        $contents = file_get_contents($filename);
-        $propName = str_replace(' ', '', ucwords(str_replace('_', ' ', str_replace('.hbs', '', basename($filename)))));
-        $templates[$propName] = $contents;
-      }
-    }
-  ?>
-  <script id="templates">
-    if (App && !App.Templates) {
-      App.Templates = <?php echo json_encode($templates); ?>;
-    }
-  </script>
+  <header id="site-header" class="header">
+    
+  </header>
+  <main role="document" class="region" id="main-region">
+    <section class="user-collection-region" id="user-collection-region"></section>
+  </main>
+  <footer id="site-footer" class="footer">
+    
+  </footer>
+  <div id="site-loader" class="page-loader"></div>
+  <div id="body-scripts">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="/dist/scripts/modernizr.js"></script>
+      <?php
+        // This isn't the prettiest template loading method either. See if you can improve this later.
+        $templates = array();
+        foreach(glob('templates/*.hbs') as $filename) {
+          if (is_file($filename)) {
+            $contents = file_get_contents($filename);
+            $propName = str_replace(' ', '', ucwords(str_replace('_', ' ', str_replace('.hbs', '', basename($filename)))));
+            $templates[$propName] = $contents;
+          }
+        }
+      ?>
+      <script id="templates">
+        Templates = <?php echo json_encode($templates); ?>;
+      </script>
+      <script>
+        $(function($, win) {
+          // Kick the whole thing off.
+          $.ajax({
+            url: "/dist/scripts/main.js",
+            dataType: "script",
+          }).done(function () {
+            console.log("script loaded!", arguments);
+          }).fail(function () {
+            console.log("script failed!", arguments);
+          });
+        });
+      </script>
+  </div>
 </body>
 </html>

@@ -1,10 +1,13 @@
 (function ($, win, Backbone) {
 	App.Layouts.MainLayout = App.Layouts.BaseLayout.extend({
-		className: "main-layout",
-		id: "main-layout",
-		tagName: "main",
+		el: "body",
 		attributes: {
 			role: "document"
+		},
+		regions: {
+			header: "#site-header",
+			userCollectionRegion: "#user-collection-region", 
+			footer: "#site-footer"
 		},
 		loaderSelector: "#site-loader",
 		leavingClass: "leaving",
@@ -18,30 +21,16 @@
 			evts["transitionend " + this.loaderSelector] = "onLoaderTransitionEnd";
 			return $.extend({}, App.Layouts.BaseLayout.prototype.events.apply(this, arguments), evts);
 		},
-		template: function (data) {
-			var tmpl = Handlebars.compile(App.Templates.MainLayoutTemplate);
-			return tmpl(data);
-		},
-		onShow: function () {
+		initialize: function () {
+			App.Layouts.BaseLayout.prototype.initialize.apply(this, arguments);
 			this.$loader = this.$(this.loaderSelector);
-			this.addDynamicRegions();
-		},
-		addDynamicRegions: function () {
-			if (!this.userCollectionRegion) {
-				this.addRegion("userCollectionRegion", {
-					el: "#user-collection-region"
-				});
-			}
-			if (!this.userCompView) {
-				this.userCompView = new App.Views.UserCompositeView({
-					collection: App.users
-				});
-				this.userCompView.on("collection:ready", this.proxy(function () {
-					this.userCollectionRegion.show(this.userCompView);
-					this.$loader.addClass(this.leavingClass);
-				}));
-			}
-			return this;
+			this.userCompView = new App.Views.UserCompositeView({
+				collection: App.users
+			});
+			this.userCompView.on("collection:ready", this.proxy(function () {
+				this.userCollectionRegion.show(this.userCompView);
+				this.$loader.addClass(this.leavingClass);
+			}));
 		},
 		onLoaderTransitionEnd: function (e) {
 			if (e.target == this.$loader[0]) {

@@ -17,7 +17,10 @@ html, body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
-#main-layout {
+#site-header, #site-footer {
+  @include size(100% 0);
+}
+#main-region {
 	background: $body_bg;
 	@include size(100%);
 	position: relative;
@@ -36,7 +39,7 @@ h1, h2, h3, h4, h5, h6 {
   @include size(100%);
   @include position(fixed, 0 null null 0);
   z-index: 10000;
-  background: url(http://ddof8wj1m41ni.cloudfront.net/tune/img/common/brand/header/tune-logo-sitebrand.png) no-repeat 50% center;
+  background: url(http://ddof8wj1m41ni.cloudfront.net/tune/img/common/brand/header/tune-logo-sitebrand.png) no-repeat 50% center $white;
   opacity: 1;
   visibility: visible;
   @include transition(opacity 1s);
