@@ -1,2131 +1,1991 @@
 
 	[
 		{
-			"time" : "2013-04-09 01:37:36",
+			"time" : "2013-04-09 00:50:18",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.26,
-			"id" : 17719
+			"user_id" : 37,
+			"revenue" : 55.45,
+			"id" : 127
 		},
 		{
-			"time" : "2013-04-09 01:55:13",
+			"time" : "2013-04-09 03:29:26",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 75.87,
-			"id" : 37987
+			"user_id" : 37,
+			"revenue" : 25.71,
+			"id" : 491
 		},
 		{
-			"time" : "2013-04-09 02:03:02",
+			"time" : "2013-04-09 06:06:00",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 73.54,
-			"id" : 54431
+			"user_id" : 37,
+			"revenue" : 39.2,
+			"id" : 862
 		},
 		{
-			"time" : "2013-04-09 02:08:00",
+			"time" : "2013-04-09 09:39:43",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 84.64,
-			"id" : 69560
+			"user_id" : 37,
+			"revenue" : 60.43,
+			"id" : 1345
 		},
 		{
-			"time" : "2013-04-09 03:34:09",
+			"time" : "2013-04-09 10:56:16",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 25.76,
-			"id" : 90091
+			"user_id" : 37,
+			"revenue" : 72.19,
+			"id" : 1519
 		},
 		{
-			"time" : "2013-04-09 12:07:13",
+			"time" : "2013-04-09 13:44:53",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 97.91,
-			"id" : 47494
+			"user_id" : 37,
+			"revenue" : 21.27,
+			"id" : 1915
 		},
 		{
-			"time" : "2013-04-09 12:32:09",
+			"time" : "2013-04-09 14:30:49",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 60.79,
-			"id" : 78028
+			"user_id" : 37,
+			"revenue" : 63.96,
+			"id" : 2021
 		},
 		{
-			"time" : "2013-04-09 13:31:30",
+			"time" : "2013-04-09 15:09:06",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 23.85,
-			"id" : 39650
+			"user_id" : 37,
+			"revenue" : 68.48,
+			"id" : 2114
 		},
 		{
-			"time" : "2013-04-09 14:26:16",
+			"time" : "2013-04-10 00:29:06",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 9.12,
-			"id" : 62179
+			"user_id" : 37,
+			"revenue" : 53.93,
+			"id" : 3410
 		},
 		{
-			"time" : "2013-04-09 17:38:16",
+			"time" : "2013-04-10 03:58:53",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 11.2,
-			"id" : 21012
+			"user_id" : 37,
+			"revenue" : 62.55,
+			"id" : 3911
 		},
 		{
-			"time" : "2013-04-09 20:35:11",
+			"time" : "2013-04-10 15:03:41",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 83.74,
-			"id" : 79290
+			"user_id" : 37,
+			"revenue" : 64.65,
+			"id" : 5453
 		},
 		{
-			"time" : "2013-04-10 00:39:55",
+			"time" : "2013-04-10 15:27:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 70.77,
-			"id" : 95365
+			"user_id" : 37,
+			"revenue" : 53.74,
+			"id" : 5512
 		},
 		{
-			"time" : "2013-04-10 02:04:00",
+			"time" : "2013-04-10 16:07:22",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 4.71,
-			"id" : 16059
+			"user_id" : 37,
+			"revenue" : 72.68,
+			"id" : 5613
 		},
 		{
-			"time" : "2013-04-10 07:05:25",
+			"time" : "2013-04-10 20:41:24",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 40.48,
-			"id" : 28987
+			"user_id" : 37,
+			"revenue" : 63.42,
+			"id" : 6266
 		},
 		{
-			"time" : "2013-04-10 16:41:28",
+			"time" : "2013-04-11 00:47:29",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 93.18,
-			"id" : 27928
+			"user_id" : 37,
+			"revenue" : 42.75,
+			"id" : 6834
 		},
 		{
-			"time" : "2013-04-10 17:16:54",
+			"time" : "2013-04-11 02:57:01",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 3.49,
-			"id" : 91883
+			"user_id" : 37,
+			"revenue" : 45.8,
+			"id" : 7150
 		},
 		{
-			"time" : "2013-04-10 22:00:24",
+			"time" : "2013-04-11 04:24:39",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 31.63,
-			"id" : 7886
+			"user_id" : 37,
+			"revenue" : 68.59,
+			"id" : 7336
 		},
 		{
-			"time" : "2013-04-10 22:20:25",
+			"time" : "2013-04-11 05:02:15",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 32.61,
-			"id" : 77824
+			"user_id" : 37,
+			"revenue" : 26.16,
+			"id" : 7427
 		},
 		{
-			"time" : "2013-04-11 01:04:09",
+			"time" : "2013-04-11 08:43:37",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 13.93,
-			"id" : 73750
+			"user_id" : 37,
+			"revenue" : 70.25,
+			"id" : 7953
 		},
 		{
-			"time" : "2013-04-11 02:09:04",
+			"time" : "2013-04-11 09:39:08",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 70.22,
-			"id" : 78506
+			"user_id" : 37,
+			"revenue" : 39.3,
+			"id" : 8082
 		},
 		{
-			"time" : "2013-04-11 03:24:05",
+			"time" : "2013-04-11 10:36:25",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 92.11,
-			"id" : 30416
+			"user_id" : 37,
+			"revenue" : 9.53,
+			"id" : 8208
 		},
 		{
-			"time" : "2013-04-11 05:27:13",
+			"time" : "2013-04-11 16:45:20",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 98.33,
-			"id" : 44484
+			"user_id" : 37,
+			"revenue" : 54.8,
+			"id" : 9110
 		},
 		{
-			"time" : "2013-04-11 07:13:30",
+			"time" : "2013-04-11 18:11:22",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 32.85,
-			"id" : 26626
+			"user_id" : 37,
+			"revenue" : 20.21,
+			"id" : 9294
 		},
 		{
-			"time" : "2013-04-11 07:14:41",
+			"time" : "2013-04-11 22:10:00",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 1.92,
-			"id" : 46273
+			"user_id" : 37,
+			"revenue" : 55.17,
+			"id" : 9786
 		},
 		{
-			"time" : "2013-04-11 12:59:53",
+			"time" : "2013-04-11 23:28:33",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 18.5,
-			"id" : 92055
+			"user_id" : 37,
+			"revenue" : 43.44,
+			"id" : 9961
 		},
 		{
-			"time" : "2013-04-11 15:19:05",
+			"time" : "2013-04-12 00:41:44",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 64.5,
-			"id" : 73692
+			"user_id" : 37,
+			"revenue" : 42.66,
+			"id" : 10134
 		},
 		{
-			"time" : "2013-04-11 22:59:48",
+			"time" : "2013-04-12 05:43:13",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 45.83,
-			"id" : 32583
+			"user_id" : 37,
+			"revenue" : 53.53,
+			"id" : 10835
 		},
 		{
-			"time" : "2013-04-12 01:23:08",
+			"time" : "2013-04-12 12:45:08",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 84.65,
-			"id" : 84860
+			"user_id" : 37,
+			"revenue" : 73.59,
+			"id" : 11836
 		},
 		{
-			"time" : "2013-04-12 03:02:38",
+			"time" : "2013-04-12 15:49:10",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 38.5,
-			"id" : 77509
+			"user_id" : 37,
+			"revenue" : 13.97,
+			"id" : 12244
 		},
 		{
-			"time" : "2013-04-12 05:38:30",
+			"time" : "2013-04-12 16:57:40",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 59.31,
-			"id" : 58908
+			"user_id" : 37,
+			"revenue" : 94.65,
+			"id" : 12390
 		},
 		{
-			"time" : "2013-04-12 07:23:52",
+			"time" : "2013-04-12 17:45:13",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 82.6,
-			"id" : 5210
+			"user_id" : 37,
+			"revenue" : 71.47,
+			"id" : 12507
 		},
 		{
-			"time" : "2013-04-12 08:33:05",
+			"time" : "2013-04-12 19:46:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 2.43,
-			"id" : 89357
+			"user_id" : 37,
+			"revenue" : 23.2,
+			"id" : 12820
 		},
 		{
-			"time" : "2013-04-12 08:34:31",
+			"time" : "2013-04-12 22:13:06",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 55.71,
-			"id" : 94586
+			"user_id" : 37,
+			"revenue" : 46.85,
+			"id" : 13146
 		},
 		{
-			"time" : "2013-04-12 09:41:52",
+			"time" : "2013-04-12 22:59:55",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 66.86,
-			"id" : 66983
+			"user_id" : 37,
+			"revenue" : 70.11,
+			"id" : 13253
 		},
 		{
-			"time" : "2013-04-12 10:43:49",
+			"time" : "2013-04-13 01:07:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 94.48,
-			"id" : 21058
+			"user_id" : 37,
+			"revenue" : 63.12,
+			"id" : 13520
 		},
 		{
-			"time" : "2013-04-12 19:06:07",
+			"time" : "2013-04-13 05:15:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 79.17,
-			"id" : 42168
+			"user_id" : 37,
+			"revenue" : 14.76,
+			"id" : 14108
 		},
 		{
-			"time" : "2013-04-12 19:26:01",
+			"time" : "2013-04-13 06:20:47",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 69.79,
-			"id" : 25315
+			"user_id" : 37,
+			"revenue" : 64.76,
+			"id" : 14266
 		},
 		{
-			"time" : "2013-04-12 20:14:07",
+			"time" : "2013-04-13 10:05:29",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 73.77,
-			"id" : 7224
+			"user_id" : 37,
+			"revenue" : 12.64,
+			"id" : 14766
 		},
 		{
-			"time" : "2013-04-12 20:59:41",
+			"time" : "2013-04-13 11:16:02",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 2.32,
-			"id" : 83994
+			"user_id" : 37,
+			"revenue" : 61.67,
+			"id" : 14932
 		},
 		{
-			"time" : "2013-04-12 22:38:18",
+			"time" : "2013-04-13 14:43:46",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 21.82,
-			"id" : 53192
+			"user_id" : 37,
+			"revenue" : 9.11,
+			"id" : 15419
 		},
 		{
-			"time" : "2013-04-12 23:00:16",
+			"time" : "2013-04-13 19:42:56",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 74.71,
-			"id" : 375
+			"user_id" : 37,
+			"revenue" : 56.11,
+			"id" : 16115
 		},
 		{
-			"time" : "2013-04-13 00:56:34",
+			"time" : "2013-04-13 22:48:45",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 21.5,
-			"id" : 98965
+			"user_id" : 37,
+			"revenue" : 66.11,
+			"id" : 16526
 		},
 		{
-			"time" : "2013-04-13 03:28:08",
+			"time" : "2013-04-14 00:03:10",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 96.38,
-			"id" : 27898
+			"user_id" : 37,
+			"revenue" : 13.63,
+			"id" : 16690
 		},
 		{
-			"time" : "2013-04-13 05:32:33",
+			"time" : "2013-04-14 01:17:41",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 46.4,
-			"id" : 27457
+			"user_id" : 37,
+			"revenue" : 76.48,
+			"id" : 16837
 		},
 		{
-			"time" : "2013-04-13 06:10:25",
+			"time" : "2013-04-14 01:19:53",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 61.11,
-			"id" : 17897
+			"user_id" : 37,
+			"revenue" : 89.75,
+			"id" : 16841
 		},
 		{
-			"time" : "2013-04-13 06:24:55",
+			"time" : "2013-04-14 02:43:15",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 30.23,
-			"id" : 77412
+			"user_id" : 37,
+			"revenue" : 3.31,
+			"id" : 17040
 		},
 		{
-			"time" : "2013-04-13 09:53:46",
+			"time" : "2013-04-14 06:48:52",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 2.98,
-			"id" : 92538
+			"user_id" : 37,
+			"revenue" : 75.1,
+			"id" : 17610
 		},
 		{
-			"time" : "2013-04-13 12:14:02",
+			"time" : "2013-04-14 07:20:40",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 37.83,
-			"id" : 61434
+			"user_id" : 37,
+			"revenue" : 49.42,
+			"id" : 17685
 		},
 		{
-			"time" : "2013-04-13 15:09:13",
+			"time" : "2013-04-14 07:28:12",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 58.9,
-			"id" : 20417
+			"user_id" : 37,
+			"revenue" : 43.85,
+			"id" : 17701
 		},
 		{
-			"time" : "2013-04-13 18:33:32",
+			"time" : "2013-04-14 07:35:40",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 62.94,
-			"id" : 74769
+			"user_id" : 37,
+			"revenue" : 63.86,
+			"id" : 17729
 		},
 		{
-			"time" : "2013-04-13 19:22:16",
+			"time" : "2013-04-14 10:00:52",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 45.65,
-			"id" : 99824
+			"user_id" : 37,
+			"revenue" : 97.16,
+			"id" : 18051
 		},
 		{
-			"time" : "2013-04-13 20:09:43",
+			"time" : "2013-04-14 10:16:43",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 61.11,
-			"id" : 65122
+			"user_id" : 37,
+			"revenue" : 63.13,
+			"id" : 18080
 		},
 		{
-			"time" : "2013-04-13 21:48:02",
+			"time" : "2013-04-14 10:24:59",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.16,
-			"id" : 17944
+			"user_id" : 37,
+			"revenue" : 51.5,
+			"id" : 18104
 		},
 		{
-			"time" : "2013-04-13 22:19:16",
+			"time" : "2013-04-14 12:56:08",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 7.25,
-			"id" : 25534
+			"user_id" : 37,
+			"revenue" : 91.52,
+			"id" : 18458
 		},
 		{
-			"time" : "2013-04-13 22:55:10",
+			"time" : "2013-04-14 16:32:49",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 74.95,
-			"id" : 67995
+			"user_id" : 37,
+			"revenue" : 66.72,
+			"id" : 18924
 		},
 		{
-			"time" : "2013-04-13 23:47:44",
+			"time" : "2013-04-14 16:34:45",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 78.47,
-			"id" : 98919
+			"user_id" : 37,
+			"revenue" : 60.97,
+			"id" : 18927
 		},
 		{
-			"time" : "2013-04-13 23:50:16",
+			"time" : "2013-04-14 17:55:35",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 46.11,
-			"id" : 12806
+			"user_id" : 37,
+			"revenue" : 64.72,
+			"id" : 19124
 		},
 		{
-			"time" : "2013-04-14 01:38:13",
+			"time" : "2013-04-14 18:18:52",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 60.33,
-			"id" : 76795
-		},
-		{
-			"time" : "2013-04-14 01:46:50",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 34.54,
-			"id" : 902
-		},
-		{
-			"time" : "2013-04-14 04:34:32",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 49.87,
-			"id" : 21215
-		},
-		{
-			"time" : "2013-04-14 08:07:30",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 16.16,
-			"id" : 33214
-		},
-		{
-			"time" : "2013-04-14 11:27:05",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 51.14,
-			"id" : 71649
+			"user_id" : 37,
+			"revenue" : 46.93,
+			"id" : 19165
 		},
 		{
 			"time" : "2013-04-14 18:27:52",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 60.21,
-			"id" : 42039
+			"user_id" : 37,
+			"revenue" : 29.86,
+			"id" : 19190
 		},
 		{
-			"time" : "2013-04-14 20:11:14",
+			"time" : "2013-04-14 21:53:10",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 20.71,
-			"id" : 59324
+			"user_id" : 37,
+			"revenue" : 27.1,
+			"id" : 19659
 		},
 		{
-			"time" : "2013-04-14 21:43:18",
+			"time" : "2013-04-14 22:32:10",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 17.31,
-			"id" : 67766
+			"user_id" : 37,
+			"revenue" : 39.83,
+			"id" : 19746
 		},
 		{
-			"time" : "2013-04-14 22:45:31",
+			"time" : "2013-04-15 03:48:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.29,
-			"id" : 38839
+			"user_id" : 37,
+			"revenue" : 58.26,
+			"id" : 20549
 		},
 		{
-			"time" : "2013-04-15 04:44:46",
+			"time" : "2013-04-15 05:03:10",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 29.41,
-			"id" : 69781
+			"user_id" : 37,
+			"revenue" : 64.56,
+			"id" : 20727
 		},
 		{
-			"time" : "2013-04-15 05:07:08",
+			"time" : "2013-04-15 08:24:16",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 16.21,
-			"id" : 57651
+			"user_id" : 37,
+			"revenue" : 30.93,
+			"id" : 21209
 		},
 		{
-			"time" : "2013-04-15 05:31:53",
+			"time" : "2013-04-15 11:06:08",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 88.27,
-			"id" : 94946
+			"user_id" : 37,
+			"revenue" : 58.28,
+			"id" : 21596
 		},
 		{
-			"time" : "2013-04-15 06:54:11",
+			"time" : "2013-04-15 17:23:32",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 91.71,
-			"id" : 93307
+			"user_id" : 37,
+			"revenue" : 5.22,
+			"id" : 22448
 		},
 		{
-			"time" : "2013-04-15 06:56:00",
+			"time" : "2013-04-15 23:54:18",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 94.29,
-			"id" : 62054
+			"user_id" : 37,
+			"revenue" : 44.42,
+			"id" : 23362
 		},
 		{
-			"time" : "2013-04-15 13:40:16",
+			"time" : "2013-04-15 23:59:16",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 63.25,
-			"id" : 78535
+			"user_id" : 37,
+			"revenue" : 76.22,
+			"id" : 23372
 		},
 		{
-			"time" : "2013-04-15 16:08:52",
+			"time" : "2013-04-16 00:06:33",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 50.45,
-			"id" : 44306
+			"user_id" : 37,
+			"revenue" : 80.86,
+			"id" : 23384
 		},
 		{
-			"time" : "2013-04-15 17:18:06",
+			"time" : "2013-04-16 03:11:48",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 26.67,
-			"id" : 39604
+			"user_id" : 37,
+			"revenue" : 54.32,
+			"id" : 23785
 		},
 		{
-			"time" : "2013-04-15 18:04:04",
+			"time" : "2013-04-16 03:53:15",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 68.82,
-			"id" : 83480
+			"user_id" : 37,
+			"revenue" : 9.94,
+			"id" : 23888
 		},
 		{
-			"time" : "2013-04-15 18:41:31",
+			"time" : "2013-04-16 05:37:07",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 28.45,
-			"id" : 53712
+			"user_id" : 37,
+			"revenue" : 92.85,
+			"id" : 24153
 		},
 		{
-			"time" : "2013-04-16 00:32:03",
+			"time" : "2013-04-16 08:03:41",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 69.93,
-			"id" : 70658
+			"user_id" : 37,
+			"revenue" : 60.89,
+			"id" : 24473
 		},
 		{
-			"time" : "2013-04-16 00:41:48",
+			"time" : "2013-04-16 11:38:54",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 30.18,
-			"id" : 91544
+			"user_id" : 37,
+			"revenue" : 37.51,
+			"id" : 24961
 		},
 		{
-			"time" : "2013-04-16 02:44:43",
+			"time" : "2013-04-16 12:21:43",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 57.89,
-			"id" : 36385
+			"user_id" : 37,
+			"revenue" : 44.56,
+			"id" : 25048
 		},
 		{
-			"time" : "2013-04-16 11:26:10",
+			"time" : "2013-04-16 13:13:35",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 7.94,
-			"id" : 588
+			"user_id" : 37,
+			"revenue" : 11.1,
+			"id" : 25166
 		},
 		{
-			"time" : "2013-04-16 11:59:28",
+			"time" : "2013-04-16 15:36:26",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 46.78,
-			"id" : 95780
+			"user_id" : 37,
+			"revenue" : 33.7,
+			"id" : 25482
 		},
 		{
-			"time" : "2013-04-16 15:33:49",
+			"time" : "2013-04-16 16:33:36",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 66.4,
-			"id" : 31541
+			"user_id" : 37,
+			"revenue" : 72.43,
+			"id" : 25623
 		},
 		{
-			"time" : "2013-04-16 18:30:13",
+			"time" : "2013-04-16 19:28:51",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 26.97,
-			"id" : 12594
+			"user_id" : 37,
+			"revenue" : 32.67,
+			"id" : 26009
 		},
 		{
-			"time" : "2013-04-16 21:08:54",
+			"time" : "2013-04-16 22:10:14",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 68.45,
-			"id" : 36630
+			"user_id" : 37,
+			"revenue" : 67.22,
+			"id" : 26383
 		},
 		{
-			"time" : "2013-04-17 00:39:16",
+			"time" : "2013-04-17 00:36:37",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 62.58,
-			"id" : 19838
+			"user_id" : 37,
+			"revenue" : 24.73,
+			"id" : 26742
 		},
 		{
-			"time" : "2013-04-17 02:10:34",
+			"time" : "2013-04-17 01:59:30",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 69.58,
-			"id" : 23954
+			"user_id" : 37,
+			"revenue" : 17.4,
+			"id" : 26932
 		},
 		{
-			"time" : "2013-04-17 04:30:24",
+			"time" : "2013-04-17 08:23:56",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 53.75,
-			"id" : 76782
+			"user_id" : 37,
+			"revenue" : 27.11,
+			"id" : 27799
 		},
 		{
-			"time" : "2013-04-17 09:13:51",
+			"time" : "2013-04-17 09:17:45",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 58.15,
-			"id" : 78201
+			"user_id" : 37,
+			"revenue" : 17.59,
+			"id" : 27925
 		},
 		{
-			"time" : "2013-04-17 14:11:27",
+			"time" : "2013-04-17 09:26:46",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 88.24,
-			"id" : 75101
+			"user_id" : 37,
+			"revenue" : 76.83,
+			"id" : 27949
 		},
 		{
-			"time" : "2013-04-17 14:49:55",
+			"time" : "2013-04-17 10:56:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 75.93,
-			"id" : 99773
+			"user_id" : 37,
+			"revenue" : 56.64,
+			"id" : 28156
 		},
 		{
-			"time" : "2013-04-17 14:57:56",
+			"time" : "2013-04-17 12:59:44",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 29.89,
-			"id" : 43154
+			"user_id" : 37,
+			"revenue" : 64.31,
+			"id" : 28423
 		},
 		{
-			"time" : "2013-04-17 15:11:58",
+			"time" : "2013-04-17 19:23:30",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 94.95,
-			"id" : 65286
+			"user_id" : 37,
+			"revenue" : 70.7,
+			"id" : 29336
 		},
 		{
-			"time" : "2013-04-17 15:20:46",
+			"time" : "2013-04-17 21:26:10",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 82.64,
-			"id" : 59273
+			"user_id" : 37,
+			"revenue" : 3.71,
+			"id" : 29621
 		},
 		{
-			"time" : "2013-04-17 15:44:33",
+			"time" : "2013-04-18 07:25:11",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 46.25,
-			"id" : 54753
+			"user_id" : 37,
+			"revenue" : 54.67,
+			"id" : 31042
 		},
 		{
-			"time" : "2013-04-17 16:14:15",
+			"time" : "2013-04-18 08:12:14",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 70.56,
-			"id" : 56749
+			"user_id" : 37,
+			"revenue" : 5.37,
+			"id" : 31150
 		},
 		{
-			"time" : "2013-04-17 17:08:01",
+			"time" : "2013-04-18 11:48:03",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 80.81,
-			"id" : 25476
+			"user_id" : 37,
+			"revenue" : 20.48,
+			"id" : 31629
 		},
 		{
-			"time" : "2013-04-17 17:46:55",
+			"time" : "2013-04-18 13:57:49",
 			"type" : "conversion",
-			"user_id" : 18,
+			"user_id" : 37,
+			"revenue" : 61.21,
+			"id" : 31923
+		},
+		{
+			"time" : "2013-04-18 14:27:46",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 99.9,
+			"id" : 31991
+		},
+		{
+			"time" : "2013-04-18 14:49:16",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 99.89,
+			"id" : 32043
+		},
+		{
+			"time" : "2013-04-18 15:13:11",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 29.11,
+			"id" : 32088
+		},
+		{
+			"time" : "2013-04-18 16:45:43",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 7.21,
+			"id" : 32320
+		},
+		{
+			"time" : "2013-04-18 17:19:31",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 44.18,
+			"id" : 32407
+		},
+		{
+			"time" : "2013-04-18 17:21:52",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 68.24,
+			"id" : 32413
+		},
+		{
+			"time" : "2013-04-18 19:25:12",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 11.3,
+			"id" : 32678
+		},
+		{
+			"time" : "2013-04-18 21:00:40",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 67.35,
+			"id" : 32901
+		},
+		{
+			"time" : "2013-04-19 01:02:40",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 77.2,
+			"id" : 33459
+		},
+		{
+			"time" : "2013-04-19 06:35:48",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 0.98,
+			"id" : 34201
+		},
+		{
+			"time" : "2013-04-19 08:20:15",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 62.95,
+			"id" : 34451
+		},
+		{
+			"time" : "2013-04-19 09:22:19",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 3.25,
+			"id" : 34579
+		},
+		{
+			"time" : "2013-04-19 10:24:35",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 68.87,
+			"id" : 34727
+		},
+		{
+			"time" : "2013-04-19 16:08:11",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 35.58,
+			"id" : 35515
+		},
+		{
+			"time" : "2013-04-19 16:09:44",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 33.54,
+			"id" : 35520
+		},
+		{
+			"time" : "2013-04-19 16:26:36",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 72.64,
+			"id" : 35562
+		},
+		{
+			"time" : "2013-04-19 16:42:50",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 33.46,
+			"id" : 35596
+		},
+		{
+			"time" : "2013-04-19 17:19:51",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 25.6,
+			"id" : 35687
+		},
+		{
+			"time" : "2013-04-19 18:29:36",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 27.17,
+			"id" : 35869
+		},
+		{
+			"time" : "2013-04-19 21:10:41",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 20.78,
+			"id" : 36240
+		},
+		{
+			"time" : "2013-04-19 22:25:58",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 92.23,
+			"id" : 36396
+		},
+		{
+			"time" : "2013-04-19 22:57:32",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 53.29,
+			"id" : 36460
+		},
+		{
+			"time" : "2013-04-20 00:07:01",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 53.18,
+			"id" : 36641
+		},
+		{
+			"time" : "2013-04-20 05:50:44",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 61.31,
+			"id" : 37431
+		},
+		{
+			"time" : "2013-04-20 05:52:54",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 38.7,
+			"id" : 37435
+		},
+		{
+			"time" : "2013-04-20 08:57:48",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 12.76,
+			"id" : 37900
+		},
+		{
+			"time" : "2013-04-20 13:02:59",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 79.11,
+			"id" : 38470
+		},
+		{
+			"time" : "2013-04-20 15:20:45",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 46.84,
+			"id" : 38804
+		},
+		{
+			"time" : "2013-04-20 15:27:58",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 75.36,
+			"id" : 38820
+		},
+		{
+			"time" : "2013-04-20 17:07:17",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 89.6,
+			"id" : 39051
+		},
+		{
+			"time" : "2013-04-20 18:54:33",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 78.18,
+			"id" : 39311
+		},
+		{
+			"time" : "2013-04-20 19:24:15",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 88.34,
+			"id" : 39368
+		},
+		{
+			"time" : "2013-04-21 02:57:49",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 92.69,
+			"id" : 40352
+		},
+		{
+			"time" : "2013-04-21 05:05:50",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 19.9,
+			"id" : 40669
+		},
+		{
+			"time" : "2013-04-21 06:17:29",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 2.16,
+			"id" : 40846
+		},
+		{
+			"time" : "2013-04-21 20:21:46",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 68.18,
+			"id" : 42769
+		},
+		{
+			"time" : "2013-04-21 22:55:41",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 50.47,
+			"id" : 43132
+		},
+		{
+			"time" : "2013-04-21 23:10:10",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 95.78,
+			"id" : 43159
+		},
+		{
+			"time" : "2013-04-22 00:34:01",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 60.11,
+			"id" : 43359
+		},
+		{
+			"time" : "2013-04-22 03:02:12",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 2.86,
+			"id" : 43687
+		},
+		{
+			"time" : "2013-04-22 03:40:24",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 74.78,
+			"id" : 43785
+		},
+		{
+			"time" : "2013-04-22 04:41:41",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 66.48,
+			"id" : 43947
+		},
+		{
+			"time" : "2013-04-22 06:12:55",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 12.32,
+			"id" : 44158
+		},
+		{
+			"time" : "2013-04-22 06:36:16",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 0.26,
+			"id" : 44208
+		},
+		{
+			"time" : "2013-04-22 09:01:53",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 47.84,
+			"id" : 44546
+		},
+		{
+			"time" : "2013-04-22 12:04:23",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 0.25,
+			"id" : 44980
+		},
+		{
+			"time" : "2013-04-22 13:19:45",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 13.2,
+			"id" : 45127
+		},
+		{
+			"time" : "2013-04-22 14:31:46",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 98.54,
+			"id" : 45285
+		},
+		{
+			"time" : "2013-04-22 15:47:47",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 19.94,
+			"id" : 45467
+		},
+		{
+			"time" : "2013-04-22 16:04:38",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 13.7,
+			"id" : 45514
+		},
+		{
+			"time" : "2013-04-22 16:43:05",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 83.17,
+			"id" : 45595
+		},
+		{
+			"time" : "2013-04-22 17:05:30",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 31.47,
+			"id" : 45647
+		},
+		{
+			"time" : "2013-04-22 22:02:17",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 65.59,
+			"id" : 46384
+		},
+		{
+			"time" : "2013-04-22 22:06:45",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 4.38,
+			"id" : 46401
+		},
+		{
+			"time" : "2013-04-22 22:57:47",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 24.68,
+			"id" : 46516
+		},
+		{
+			"time" : "2013-04-23 00:29:46",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 6.44,
+			"id" : 46707
+		},
+		{
+			"time" : "2013-04-23 01:45:10",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 76.56,
+			"id" : 46872
+		},
+		{
+			"time" : "2013-04-23 02:17:17",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 62.75,
+			"id" : 46944
+		},
+		{
+			"time" : "2013-04-23 09:56:55",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 71.59,
+			"id" : 48045
+		},
+		{
+			"time" : "2013-04-23 14:56:50",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 91.45,
+			"id" : 48705
+		},
+		{
+			"time" : "2013-04-23 16:44:06",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 10.43,
+			"id" : 48960
+		},
+		{
+			"time" : "2013-04-23 22:08:28",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 20.74,
+			"id" : 49727
+		},
+		{
+			"time" : "2013-04-24 00:58:52",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 3.32,
+			"id" : 50114
+		},
+		{
+			"time" : "2013-04-24 01:44:00",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 54.43,
+			"id" : 50203
+		},
+		{
+			"time" : "2013-04-24 07:39:24",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 58.77,
+			"id" : 51027
+		},
+		{
+			"time" : "2013-04-24 10:32:28",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 79.77,
+			"id" : 51428
+		},
+		{
+			"time" : "2013-04-24 14:32:14",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 35.85,
+			"id" : 51989
+		},
+		{
+			"time" : "2013-04-24 15:55:15",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 52.6,
+			"id" : 52200
+		},
+		{
+			"time" : "2013-04-24 22:04:25",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 31.28,
+			"id" : 53031
+		},
+		{
+			"time" : "2013-04-24 22:25:47",
+			"type" : "conversion",
+			"user_id" : 37,
 			"revenue" : 69.1,
-			"id" : 93187
+			"id" : 53080
 		},
 		{
-			"time" : "2013-04-17 18:58:21",
+			"time" : "2013-04-25 00:46:18",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 89.16,
-			"id" : 8170
+			"user_id" : 37,
+			"revenue" : 20.96,
+			"id" : 53408
 		},
 		{
-			"time" : "2013-04-17 21:06:57",
+			"time" : "2013-04-25 03:19:41",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 80.28,
-			"id" : 37800
+			"user_id" : 37,
+			"revenue" : 74.23,
+			"id" : 53740
 		},
 		{
-			"time" : "2013-04-17 23:47:06",
+			"time" : "2013-04-25 07:24:29",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 4.62,
-			"id" : 69900
+			"user_id" : 37,
+			"revenue" : 60.48,
+			"id" : 54328
 		},
 		{
-			"time" : "2013-04-17 23:47:14",
+			"time" : "2013-04-25 14:48:27",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 86.13,
-			"id" : 51144
+			"user_id" : 37,
+			"revenue" : 94.18,
+			"id" : 55352
 		},
 		{
-			"time" : "2013-04-18 00:35:05",
+			"time" : "2013-04-26 01:11:21",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 71.48,
-			"id" : 36996
+			"user_id" : 37,
+			"revenue" : 80.74,
+			"id" : 56756
 		},
 		{
-			"time" : "2013-04-18 04:03:09",
+			"time" : "2013-04-26 06:09:03",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 21.75,
-			"id" : 26844
+			"user_id" : 37,
+			"revenue" : 64.76,
+			"id" : 57446
 		},
 		{
-			"time" : "2013-04-18 04:25:41",
+			"time" : "2013-04-26 09:58:48",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 11.55,
-			"id" : 34548
+			"user_id" : 37,
+			"revenue" : 93.6,
+			"id" : 57987
 		},
 		{
-			"time" : "2013-04-18 04:47:28",
+			"time" : "2013-04-26 10:52:51",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 89.23,
-			"id" : 1802
+			"user_id" : 37,
+			"revenue" : 83.39,
+			"id" : 58128
 		},
 		{
-			"time" : "2013-04-18 09:09:04",
+			"time" : "2013-04-26 12:40:44",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 85.54,
-			"id" : 54703
+			"user_id" : 37,
+			"revenue" : 24.55,
+			"id" : 58365
 		},
 		{
-			"time" : "2013-04-18 13:27:21",
+			"time" : "2013-04-26 12:57:24",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 77.97,
-			"id" : 86947
+			"user_id" : 37,
+			"revenue" : 89.32,
+			"id" : 58403
 		},
 		{
-			"time" : "2013-04-18 15:31:47",
+			"time" : "2013-04-26 13:51:17",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 51.7,
-			"id" : 61809
+			"user_id" : 37,
+			"revenue" : 0.39,
+			"id" : 58539
 		},
 		{
-			"time" : "2013-04-18 19:23:59",
+			"time" : "2013-04-26 13:51:40",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 47.12,
-			"id" : 55712
+			"user_id" : 37,
+			"revenue" : 93.23,
+			"id" : 58541
 		},
 		{
-			"time" : "2013-04-18 19:50:27",
+			"time" : "2013-04-26 14:43:51",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 73.29,
-			"id" : 88120
+			"user_id" : 37,
+			"revenue" : 73.6,
+			"id" : 58657
 		},
 		{
-			"time" : "2013-04-18 20:53:13",
+			"time" : "2013-04-26 15:08:48",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 10.48,
-			"id" : 6144
+			"user_id" : 37,
+			"revenue" : 18.49,
+			"id" : 58712
 		},
 		{
-			"time" : "2013-04-19 00:50:42",
+			"time" : "2013-04-26 16:49:27",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 77.68,
-			"id" : 4601
+			"user_id" : 37,
+			"revenue" : 60.29,
+			"id" : 58954
 		},
 		{
-			"time" : "2013-04-19 08:42:01",
+			"time" : "2013-04-27 01:59:36",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 79.27,
-			"id" : 67193
+			"user_id" : 37,
+			"revenue" : 22.54,
+			"id" : 60249
 		},
 		{
-			"time" : "2013-04-19 11:12:08",
+			"time" : "2013-04-27 06:52:01",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 71.9,
-			"id" : 94883
+			"user_id" : 37,
+			"revenue" : 29.48,
+			"id" : 60927
 		},
 		{
-			"time" : "2013-04-19 15:50:43",
+			"time" : "2013-04-27 09:08:40",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 10.4,
-			"id" : 38744
+			"user_id" : 37,
+			"revenue" : 82.7,
+			"id" : 61228
 		},
 		{
-			"time" : "2013-04-19 17:21:25",
+			"time" : "2013-04-27 11:42:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 59.66,
-			"id" : 81992
+			"user_id" : 37,
+			"revenue" : 77.55,
+			"id" : 61575
 		},
 		{
-			"time" : "2013-04-19 19:18:06",
+			"time" : "2013-04-27 17:53:08",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 11.94,
-			"id" : 25122
+			"user_id" : 37,
+			"revenue" : 10.81,
+			"id" : 62413
 		},
 		{
-			"time" : "2013-04-19 19:55:41",
+			"time" : "2013-04-27 19:52:50",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 97.13,
-			"id" : 53464
+			"user_id" : 37,
+			"revenue" : 99.52,
+			"id" : 62718
 		},
 		{
-			"time" : "2013-04-19 20:19:43",
+			"time" : "2013-04-27 21:00:10",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 35.46,
-			"id" : 42017
+			"user_id" : 37,
+			"revenue" : 99.53,
+			"id" : 62881
 		},
 		{
-			"time" : "2013-04-19 22:21:20",
+			"time" : "2013-04-27 23:13:47",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 30.83,
-			"id" : 81518
+			"user_id" : 37,
+			"revenue" : 52.48,
+			"id" : 63220
 		},
 		{
-			"time" : "2013-04-20 00:08:44",
+			"time" : "2013-04-28 02:25:40",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 53.68,
-			"id" : 4717
+			"user_id" : 37,
+			"revenue" : 46.67,
+			"id" : 63643
 		},
 		{
-			"time" : "2013-04-20 05:38:59",
+			"time" : "2013-04-28 03:29:46",
 			"type" : "conversion",
-			"user_id" : 18,
+			"user_id" : 37,
+			"revenue" : 38.88,
+			"id" : 63792
+		},
+		{
+			"time" : "2013-04-28 05:47:14",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 90.11,
+			"id" : 64098
+		},
+		{
+			"time" : "2013-04-28 09:05:28",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 46.14,
+			"id" : 64556
+		},
+		{
+			"time" : "2013-04-28 12:46:35",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 92.57,
+			"id" : 65080
+		},
+		{
+			"time" : "2013-04-28 13:48:05",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 86.87,
+			"id" : 65209
+		},
+		{
+			"time" : "2013-04-28 15:50:20",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 20.95,
+			"id" : 65495
+		},
+		{
+			"time" : "2013-04-28 22:55:35",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 42.83,
+			"id" : 66455
+		},
+		{
+			"time" : "2013-04-29 02:42:47",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 7.66,
+			"id" : 66987
+		},
+		{
+			"time" : "2013-04-29 07:28:13",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 7.6,
+			"id" : 67722
+		},
+		{
+			"time" : "2013-04-29 08:28:42",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 75.29,
+			"id" : 67877
+		},
+		{
+			"time" : "2013-04-29 22:41:18",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 28.17,
+			"id" : 69837
+		},
+		{
+			"time" : "2013-04-30 02:06:58",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 23.75,
+			"id" : 70313
+		},
+		{
+			"time" : "2013-04-30 07:23:12",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 20.35,
+			"id" : 71035
+		},
+		{
+			"time" : "2013-04-30 07:40:17",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 65.32,
+			"id" : 71074
+		},
+		{
+			"time" : "2013-04-30 09:09:52",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 53.8,
+			"id" : 71278
+		},
+		{
+			"time" : "2013-04-30 11:45:54",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 36.64,
+			"id" : 71648
+		},
+		{
+			"time" : "2013-04-30 12:23:53",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 42.68,
+			"id" : 71740
+		},
+		{
+			"time" : "2013-04-30 17:21:19",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 83.95,
+			"id" : 72398
+		},
+		{
+			"time" : "2013-04-30 17:36:21",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 74.36,
+			"id" : 72429
+		},
+		{
+			"time" : "2013-04-30 19:01:51",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 83.17,
+			"id" : 72627
+		},
+		{
+			"time" : "2013-04-30 19:10:06",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 6.78,
+			"id" : 72645
+		},
+		{
+			"time" : "2013-04-30 19:40:50",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 84.29,
+			"id" : 72732
+		},
+		{
+			"time" : "2013-05-01 01:10:54",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 10.32,
+			"id" : 73508
+		},
+		{
+			"time" : "2013-05-01 06:53:55",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 44.49,
+			"id" : 74270
+		},
+		{
+			"time" : "2013-05-01 11:36:48",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 6.67,
+			"id" : 74925
+		},
+		{
+			"time" : "2013-05-01 11:47:06",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 30.66,
+			"id" : 74950
+		},
+		{
+			"time" : "2013-05-01 12:52:18",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 79.9,
+			"id" : 75103
+		},
+		{
+			"time" : "2013-05-01 13:29:05",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 44.22,
+			"id" : 75182
+		},
+		{
+			"time" : "2013-05-01 14:45:48",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 41.84,
+			"id" : 75364
+		},
+		{
+			"time" : "2013-05-01 19:58:48",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 93.39,
+			"id" : 76076
+		},
+		{
+			"time" : "2013-05-01 21:16:10",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 1.52,
+			"id" : 76248
+		},
+		{
+			"time" : "2013-05-02 01:38:42",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 51.48,
+			"id" : 76856
+		},
+		{
+			"time" : "2013-05-02 06:29:17",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 84.24,
+			"id" : 77497
+		},
+		{
+			"time" : "2013-05-02 13:46:58",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 40.34,
+			"id" : 78505
+		},
+		{
+			"time" : "2013-05-02 14:56:37",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 64.84,
+			"id" : 78661
+		},
+		{
+			"time" : "2013-05-02 16:56:46",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 35.9,
+			"id" : 78942
+		},
+		{
+			"time" : "2013-05-02 19:08:09",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 75.74,
+			"id" : 79245
+		},
+		{
+			"time" : "2013-05-02 19:43:52",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 55.49,
+			"id" : 79328
+		},
+		{
+			"time" : "2013-05-02 22:59:55",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 55.89,
+			"id" : 79802
+		},
+		{
+			"time" : "2013-05-03 03:50:22",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 96.19,
+			"id" : 80482
+		},
+		{
+			"time" : "2013-05-03 05:38:43",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 37.82,
+			"id" : 80701
+		},
+		{
+			"time" : "2013-05-03 05:46:29",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 17.67,
+			"id" : 80716
+		},
+		{
+			"time" : "2013-05-03 08:26:50",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 79.37,
+			"id" : 81085
+		},
+		{
+			"time" : "2013-05-03 10:45:50",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 58.78,
+			"id" : 81465
+		},
+		{
+			"time" : "2013-05-03 11:17:10",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 67.41,
+			"id" : 81532
+		},
+		{
+			"time" : "2013-05-03 12:55:11",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 76.8,
+			"id" : 81734
+		},
+		{
+			"time" : "2013-05-03 14:28:05",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 8.18,
+			"id" : 81960
+		},
+		{
+			"time" : "2013-05-03 14:41:54",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 4.12,
+			"id" : 82002
+		},
+		{
+			"time" : "2013-05-03 20:28:13",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 78.94,
+			"id" : 82783
+		},
+		{
+			"time" : "2013-05-03 22:47:26",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 78.24,
+			"id" : 83123
+		},
+		{
+			"time" : "2013-05-04 02:14:37",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 89.49,
+			"id" : 83596
+		},
+		{
+			"time" : "2013-05-04 03:07:59",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 96.13,
+			"id" : 83716
+		},
+		{
+			"time" : "2013-05-04 08:51:24",
+			"type" : "conversion",
+			"user_id" : 37,
+			"revenue" : 29.62,
+			"id" : 84505
+		},
+		{
+			"time" : "2013-05-04 11:25:21",
+			"type" : "conversion",
+			"user_id" : 37,
 			"revenue" : 66.26,
-			"id" : 54949
+			"id" : 84834
 		},
 		{
-			"time" : "2013-04-20 06:00:53",
+			"time" : "2013-05-04 12:14:14",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 87.44,
-			"id" : 27958
+			"user_id" : 37,
+			"revenue" : 67.31,
+			"id" : 84956
 		},
 		{
-			"time" : "2013-04-20 11:41:47",
+			"time" : "2013-05-04 19:53:29",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 41.64,
-			"id" : 90797
+			"user_id" : 37,
+			"revenue" : 64.24,
+			"id" : 86069
 		},
 		{
-			"time" : "2013-04-20 12:39:23",
+			"time" : "2013-05-04 22:58:49",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 30.28,
-			"id" : 39490
+			"user_id" : 37,
+			"revenue" : 59.87,
+			"id" : 86502
 		},
 		{
-			"time" : "2013-04-20 12:39:47",
+			"time" : "2013-05-04 23:20:27",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 2.59,
-			"id" : 94083
+			"user_id" : 37,
+			"revenue" : 20.63,
+			"id" : 86556
 		},
 		{
-			"time" : "2013-04-20 13:04:17",
+			"time" : "2013-05-05 00:38:36",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 18.74,
-			"id" : 20456
+			"user_id" : 37,
+			"revenue" : 48.61,
+			"id" : 86740
 		},
 		{
-			"time" : "2013-04-20 16:30:10",
+			"time" : "2013-05-05 02:38:52",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 89.28,
-			"id" : 82753
+			"user_id" : 37,
+			"revenue" : 32.28,
+			"id" : 87045
 		},
 		{
-			"time" : "2013-04-20 16:46:01",
+			"time" : "2013-05-05 06:06:38",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 68.95,
-			"id" : 27440
+			"user_id" : 37,
+			"revenue" : 11.77,
+			"id" : 87469
 		},
 		{
-			"time" : "2013-04-20 17:24:30",
+			"time" : "2013-05-05 06:35:52",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 27.8,
-			"id" : 16848
+			"user_id" : 37,
+			"revenue" : 0.21,
+			"id" : 87527
 		},
 		{
-			"time" : "2013-04-20 18:50:03",
+			"time" : "2013-05-05 08:39:17",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 61.44,
-			"id" : 56142
+			"user_id" : 37,
+			"revenue" : 60.57,
+			"id" : 87793
 		},
 		{
-			"time" : "2013-04-20 18:55:26",
+			"time" : "2013-05-05 09:03:48",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 20.84,
-			"id" : 31920
+			"user_id" : 37,
+			"revenue" : 10.9,
+			"id" : 87845
 		},
 		{
-			"time" : "2013-04-20 20:06:26",
+			"time" : "2013-05-05 10:49:07",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 10.17,
-			"id" : 1373
+			"user_id" : 37,
+			"revenue" : 87.92,
+			"id" : 88106
 		},
 		{
-			"time" : "2013-04-21 00:27:14",
+			"time" : "2013-05-05 15:48:50",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 97.36,
-			"id" : 43837
+			"user_id" : 37,
+			"revenue" : 89.58,
+			"id" : 88795
 		},
 		{
-			"time" : "2013-04-21 00:48:01",
+			"time" : "2013-05-05 16:31:36",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 93.65,
-			"id" : 25429
+			"user_id" : 37,
+			"revenue" : 24.89,
+			"id" : 88905
 		},
 		{
-			"time" : "2013-04-21 01:04:36",
+			"time" : "2013-05-05 19:00:55",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 35.84,
-			"id" : 91953
+			"user_id" : 37,
+			"revenue" : 96.11,
+			"id" : 89249
 		},
 		{
-			"time" : "2013-04-21 03:02:12",
+			"time" : "2013-05-05 19:39:03",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 68.72,
-			"id" : 35400
+			"user_id" : 37,
+			"revenue" : 55.94,
+			"id" : 89348
 		},
 		{
-			"time" : "2013-04-21 03:33:10",
+			"time" : "2013-05-06 00:23:23",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 6.88,
-			"id" : 28461
+			"user_id" : 37,
+			"revenue" : 10.5,
+			"id" : 90012
 		},
 		{
-			"time" : "2013-04-21 04:46:35",
+			"time" : "2013-05-06 00:31:51",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 14.36,
-			"id" : 82824
+			"user_id" : 37,
+			"revenue" : 21.53,
+			"id" : 90043
 		},
 		{
-			"time" : "2013-04-21 05:40:36",
+			"time" : "2013-05-06 02:01:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 25.28,
-			"id" : 63246
+			"user_id" : 37,
+			"revenue" : 94.57,
+			"id" : 90263
 		},
 		{
-			"time" : "2013-04-21 06:36:36",
+			"time" : "2013-05-06 03:43:09",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 13.29,
-			"id" : 79532
+			"user_id" : 37,
+			"revenue" : 88.86,
+			"id" : 90497
 		},
 		{
-			"time" : "2013-04-21 08:47:07",
+			"time" : "2013-05-06 04:37:46",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 35.34,
-			"id" : 79193
+			"user_id" : 37,
+			"revenue" : 23.35,
+			"id" : 90629
 		},
 		{
-			"time" : "2013-04-21 09:41:15",
+			"time" : "2013-05-06 05:29:27",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 70.42,
-			"id" : 28919
+			"user_id" : 37,
+			"revenue" : 65.52,
+			"id" : 90763
 		},
 		{
-			"time" : "2013-04-21 13:06:08",
+			"time" : "2013-05-06 15:52:34",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 53.63,
-			"id" : 75094
+			"user_id" : 37,
+			"revenue" : 97.2,
+			"id" : 92197
 		},
 		{
-			"time" : "2013-04-21 16:44:56",
+			"time" : "2013-05-06 18:25:22",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 71.29,
-			"id" : 56130
+			"user_id" : 37,
+			"revenue" : 61.54,
+			"id" : 92547
 		},
 		{
-			"time" : "2013-04-21 16:54:48",
+			"time" : "2013-05-06 20:13:40",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 82.22,
-			"id" : 92664
+			"user_id" : 37,
+			"revenue" : 90.58,
+			"id" : 92785
 		},
 		{
-			"time" : "2013-04-21 18:06:51",
+			"time" : "2013-05-06 22:47:13",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 92.41,
-			"id" : 77264
+			"user_id" : 37,
+			"revenue" : 78.24,
+			"id" : 93161
 		},
 		{
-			"time" : "2013-04-22 01:07:11",
+			"time" : "2013-05-07 01:28:33",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 72.29,
-			"id" : 34191
+			"user_id" : 37,
+			"revenue" : 12.25,
+			"id" : 93515
 		},
 		{
-			"time" : "2013-04-22 04:48:55",
+			"time" : "2013-05-07 06:20:28",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 54.35,
-			"id" : 1951
+			"user_id" : 37,
+			"revenue" : 9.43,
+			"id" : 94185
 		},
 		{
-			"time" : "2013-04-22 07:26:32",
+			"time" : "2013-05-07 06:57:31",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 95.74,
-			"id" : 15540
+			"user_id" : 37,
+			"revenue" : 55.19,
+			"id" : 94259
 		},
 		{
-			"time" : "2013-04-22 08:34:27",
+			"time" : "2013-05-07 07:35:40",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 52.4,
-			"id" : 60049
+			"user_id" : 37,
+			"revenue" : 34.61,
+			"id" : 94332
 		},
 		{
-			"time" : "2013-04-22 09:56:47",
+			"time" : "2013-05-07 13:52:56",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 16.38,
-			"id" : 38782
+			"user_id" : 37,
+			"revenue" : 66.5,
+			"id" : 95216
 		},
 		{
-			"time" : "2013-04-22 12:34:00",
+			"time" : "2013-05-07 15:02:05",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 54.97,
-			"id" : 34683
+			"user_id" : 37,
+			"revenue" : 22.27,
+			"id" : 95378
 		},
 		{
-			"time" : "2013-04-22 21:20:47",
+			"time" : "2013-05-07 16:02:57",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 85.47,
-			"id" : 13999
-		},
-		{
-			"time" : "2013-04-23 00:23:34",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 74.42,
-			"id" : 98788
-		},
-		{
-			"time" : "2013-04-23 01:28:58",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 71.91,
-			"id" : 69407
-		},
-		{
-			"time" : "2013-04-23 01:39:21",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 38.48,
-			"id" : 29153
-		},
-		{
-			"time" : "2013-04-23 02:03:38",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.48,
-			"id" : 81499
-		},
-		{
-			"time" : "2013-04-23 02:28:25",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 98.55,
-			"id" : 7009
-		},
-		{
-			"time" : "2013-04-23 02:33:45",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 24.35,
-			"id" : 58523
-		},
-		{
-			"time" : "2013-04-23 07:17:12",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 66.3,
-			"id" : 24608
-		},
-		{
-			"time" : "2013-04-23 11:34:53",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 35.73,
-			"id" : 9077
-		},
-		{
-			"time" : "2013-04-23 15:15:14",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 44.79,
-			"id" : 2216
-		},
-		{
-			"time" : "2013-04-23 16:25:21",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 18.68,
-			"id" : 36953
-		},
-		{
-			"time" : "2013-04-23 17:57:12",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 45.6,
-			"id" : 27260
-		},
-		{
-			"time" : "2013-04-23 19:42:38",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 55.67,
-			"id" : 45496
-		},
-		{
-			"time" : "2013-04-23 22:03:44",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 25.33,
-			"id" : 85898
-		},
-		{
-			"time" : "2013-04-24 00:44:56",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 11.57,
-			"id" : 25455
-		},
-		{
-			"time" : "2013-04-24 05:21:28",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 70.22,
-			"id" : 50074
-		},
-		{
-			"time" : "2013-04-24 06:44:50",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 32.75,
-			"id" : 62923
-		},
-		{
-			"time" : "2013-04-24 06:45:09",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 90.28,
-			"id" : 86215
-		},
-		{
-			"time" : "2013-04-24 08:34:18",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 30.54,
-			"id" : 95674
-		},
-		{
-			"time" : "2013-04-24 10:28:33",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 44.17,
-			"id" : 24755
-		},
-		{
-			"time" : "2013-04-24 15:57:35",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 99.13,
-			"id" : 25772
-		},
-		{
-			"time" : "2013-04-24 20:56:19",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 87.79,
-			"id" : 13260
-		},
-		{
-			"time" : "2013-04-25 00:48:27",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 78.13,
-			"id" : 69988
-		},
-		{
-			"time" : "2013-04-25 01:47:29",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 47.56,
-			"id" : 88015
-		},
-		{
-			"time" : "2013-04-25 04:24:13",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 26.4,
-			"id" : 61406
-		},
-		{
-			"time" : "2013-04-25 09:29:09",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 7.63,
-			"id" : 75559
-		},
-		{
-			"time" : "2013-04-25 10:45:32",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 3.35,
-			"id" : 78187
-		},
-		{
-			"time" : "2013-04-25 15:29:56",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 4.97,
-			"id" : 48906
-		},
-		{
-			"time" : "2013-04-25 17:48:49",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 45.11,
-			"id" : 48289
-		},
-		{
-			"time" : "2013-04-25 23:42:32",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 45.77,
-			"id" : 3132
-		},
-		{
-			"time" : "2013-04-26 03:37:37",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 88.51,
-			"id" : 67937
-		},
-		{
-			"time" : "2013-04-26 04:24:51",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 60.19,
-			"id" : 23660
-		},
-		{
-			"time" : "2013-04-26 10:17:05",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 37.31,
-			"id" : 85597
-		},
-		{
-			"time" : "2013-04-26 11:56:16",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 10.71,
-			"id" : 24717
-		},
-		{
-			"time" : "2013-04-26 13:38:07",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 89.26,
-			"id" : 55991
-		},
-		{
-			"time" : "2013-04-26 13:51:57",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 52.12,
+			"user_id" : 37,
+			"revenue" : 94.93,
 			"id" : 95530
 		},
 		{
-			"time" : "2013-04-26 23:54:44",
+			"time" : "2013-05-07 18:52:25",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 43.2,
-			"id" : 86572
+			"user_id" : 37,
+			"revenue" : 14.43,
+			"id" : 95961
 		},
 		{
-			"time" : "2013-04-27 00:25:21",
+			"time" : "2013-05-08 02:17:21",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 3.64,
-			"id" : 56584
+			"user_id" : 37,
+			"revenue" : 8.49,
+			"id" : 96981
 		},
 		{
-			"time" : "2013-04-27 01:24:23",
+			"time" : "2013-05-08 02:17:28",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 0.86,
-			"id" : 57785
+			"user_id" : 37,
+			"revenue" : 64.81,
+			"id" : 96983
 		},
 		{
-			"time" : "2013-04-27 06:16:25",
+			"time" : "2013-05-08 08:34:29",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 27.62,
-			"id" : 36559
+			"user_id" : 37,
+			"revenue" : 73.32,
+			"id" : 97830
 		},
 		{
-			"time" : "2013-04-27 11:44:12",
+			"time" : "2013-05-08 10:07:56",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 86.56,
-			"id" : 14895
+			"user_id" : 37,
+			"revenue" : 68.76,
+			"id" : 98038
 		},
 		{
-			"time" : "2013-04-27 11:48:11",
+			"time" : "2013-05-08 11:47:21",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 14.64,
-			"id" : 24995
+			"user_id" : 37,
+			"revenue" : 5.19,
+			"id" : 98271
 		},
 		{
-			"time" : "2013-04-27 14:35:02",
+			"time" : "2013-05-08 13:16:55",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 48.56,
-			"id" : 29281
+			"user_id" : 37,
+			"revenue" : 17.32,
+			"id" : 98484
 		},
 		{
-			"time" : "2013-04-27 16:14:16",
+			"time" : "2013-05-08 14:01:54",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 3.18,
-			"id" : 41553
+			"user_id" : 37,
+			"revenue" : 13.44,
+			"id" : 98594
 		},
 		{
-			"time" : "2013-04-27 17:22:18",
+			"time" : "2013-05-08 15:36:02",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 49.18,
-			"id" : 57870
+			"user_id" : 37,
+			"revenue" : 46.12,
+			"id" : 98825
 		},
 		{
-			"time" : "2013-04-27 18:32:06",
+			"time" : "2013-05-08 17:52:38",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 80.13,
-			"id" : 74613
+			"user_id" : 37,
+			"revenue" : 52.62,
+			"id" : 99176
 		},
 		{
-			"time" : "2013-04-27 18:48:40",
+			"time" : "2013-05-08 19:39:03",
 			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 16.63,
-			"id" : 53757
-		},
-		{
-			"time" : "2013-04-27 21:29:37",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 26.2,
-			"id" : 80502
-		},
-		{
-			"time" : "2013-04-27 23:33:22",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 59.74,
-			"id" : 20337
-		},
-		{
-			"time" : "2013-04-28 01:48:32",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 59.39,
-			"id" : 20288
-		},
-		{
-			"time" : "2013-04-28 04:47:38",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 73.45,
-			"id" : 27294
-		},
-		{
-			"time" : "2013-04-28 05:55:15",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 41.67,
-			"id" : 48951
-		},
-		{
-			"time" : "2013-04-28 06:19:28",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 75.93,
-			"id" : 71484
-		},
-		{
-			"time" : "2013-04-28 06:33:18",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 74.65,
-			"id" : 47486
-		},
-		{
-			"time" : "2013-04-28 08:28:30",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 54.37,
-			"id" : 74989
-		},
-		{
-			"time" : "2013-04-28 16:09:48",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 90.27,
-			"id" : 79912
-		},
-		{
-			"time" : "2013-04-28 22:56:04",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 52.66,
-			"id" : 95457
-		},
-		{
-			"time" : "2013-04-29 03:26:44",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 83.66,
-			"id" : 41425
-		},
-		{
-			"time" : "2013-04-29 04:25:22",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 31.28,
-			"id" : 13003
-		},
-		{
-			"time" : "2013-04-29 05:50:43",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.65,
-			"id" : 76561
-		},
-		{
-			"time" : "2013-04-29 06:19:50",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.73,
-			"id" : 29608
-		},
-		{
-			"time" : "2013-04-29 07:39:12",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 34.98,
-			"id" : 56786
-		},
-		{
-			"time" : "2013-04-29 13:14:35",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 70.89,
-			"id" : 46423
-		},
-		{
-			"time" : "2013-04-29 16:34:26",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 82.47,
-			"id" : 72661
-		},
-		{
-			"time" : "2013-04-29 20:17:22",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 77.89,
-			"id" : 96439
-		},
-		{
-			"time" : "2013-04-29 21:42:28",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 57.42,
-			"id" : 28813
-		},
-		{
-			"time" : "2013-04-29 22:51:50",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 89.55,
-			"id" : 34209
-		},
-		{
-			"time" : "2013-04-30 02:36:35",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 82.32,
-			"id" : 14570
-		},
-		{
-			"time" : "2013-04-30 02:50:04",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 79.75,
-			"id" : 13543
-		},
-		{
-			"time" : "2013-04-30 04:15:27",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 14.76,
-			"id" : 80170
-		},
-		{
-			"time" : "2013-04-30 05:47:25",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 5.67,
-			"id" : 89069
-		},
-		{
-			"time" : "2013-04-30 09:34:44",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 62.35,
-			"id" : 22777
-		},
-		{
-			"time" : "2013-04-30 10:08:09",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 48.63,
-			"id" : 79985
-		},
-		{
-			"time" : "2013-04-30 11:37:26",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 63.76,
-			"id" : 23069
-		},
-		{
-			"time" : "2013-04-30 12:17:39",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 30.86,
-			"id" : 67109
-		},
-		{
-			"time" : "2013-04-30 14:41:56",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 38.15,
-			"id" : 76930
-		},
-		{
-			"time" : "2013-04-30 19:03:10",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 77.96,
-			"id" : 76586
-		},
-		{
-			"time" : "2013-05-01 07:35:25",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 78.16,
-			"id" : 94780
-		},
-		{
-			"time" : "2013-05-01 11:52:08",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 41.44,
-			"id" : 22840
-		},
-		{
-			"time" : "2013-05-01 15:02:56",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 90.74,
-			"id" : 64528
-		},
-		{
-			"time" : "2013-05-01 15:03:05",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 36.34,
-			"id" : 38490
-		},
-		{
-			"time" : "2013-05-01 15:19:29",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 10.68,
-			"id" : 13628
-		},
-		{
-			"time" : "2013-05-01 15:26:52",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 84.57,
-			"id" : 4043
-		},
-		{
-			"time" : "2013-05-01 17:14:39",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 19.79,
-			"id" : 52370
-		},
-		{
-			"time" : "2013-05-01 21:18:36",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 15.12,
-			"id" : 79682
-		},
-		{
-			"time" : "2013-05-02 00:38:15",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 33.33,
-			"id" : 67509
-		},
-		{
-			"time" : "2013-05-02 05:54:58",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 45.26,
-			"id" : 52718
-		},
-		{
-			"time" : "2013-05-02 10:08:22",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 94.84,
-			"id" : 19378
-		},
-		{
-			"time" : "2013-05-02 16:01:09",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 8.76,
-			"id" : 1370
-		},
-		{
-			"time" : "2013-05-02 17:10:56",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 31.8,
-			"id" : 51697
-		},
-		{
-			"time" : "2013-05-02 17:47:42",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 32.74,
-			"id" : 80642
-		},
-		{
-			"time" : "2013-05-02 20:30:08",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 16.11,
-			"id" : 74349
-		},
-		{
-			"time" : "2013-05-02 23:34:28",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 63.31,
-			"id" : 95964
-		},
-		{
-			"time" : "2013-05-03 07:20:07",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 87.56,
-			"id" : 21168
-		},
-		{
-			"time" : "2013-05-03 12:12:14",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 97.91,
-			"id" : 50933
-		},
-		{
-			"time" : "2013-05-03 14:14:56",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.2,
-			"id" : 76515
-		},
-		{
-			"time" : "2013-05-03 16:00:54",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 9.82,
-			"id" : 86996
-		},
-		{
-			"time" : "2013-05-03 17:41:24",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 88.82,
-			"id" : 40603
-		},
-		{
-			"time" : "2013-05-03 21:33:12",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 89.91,
-			"id" : 89308
-		},
-		{
-			"time" : "2013-05-04 01:51:47",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 4.48,
-			"id" : 21555
-		},
-		{
-			"time" : "2013-05-04 10:41:50",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 7.72,
-			"id" : 25727
-		},
-		{
-			"time" : "2013-05-04 12:45:59",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 78.63,
-			"id" : 56780
-		},
-		{
-			"time" : "2013-05-04 15:37:01",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 7.21,
-			"id" : 20254
-		},
-		{
-			"time" : "2013-05-04 15:42:16",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 55.65,
-			"id" : 78751
-		},
-		{
-			"time" : "2013-05-04 17:15:30",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 29.82,
-			"id" : 93018
-		},
-		{
-			"time" : "2013-05-04 20:18:00",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 62.73,
-			"id" : 26393
-		},
-		{
-			"time" : "2013-05-04 20:33:21",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 2.38,
-			"id" : 65772
-		},
-		{
-			"time" : "2013-05-04 23:58:34",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 99.52,
-			"id" : 7235
-		},
-		{
-			"time" : "2013-05-05 02:25:20",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 38.64,
-			"id" : 75084
-		},
-		{
-			"time" : "2013-05-05 02:49:30",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 41.67,
-			"id" : 95827
-		},
-		{
-			"time" : "2013-05-05 05:23:41",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 30.37,
-			"id" : 6048
-		},
-		{
-			"time" : "2013-05-05 07:11:24",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 42.79,
-			"id" : 33351
-		},
-		{
-			"time" : "2013-05-05 08:41:30",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 40.2,
-			"id" : 63074
-		},
-		{
-			"time" : "2013-05-05 15:29:59",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 61.46,
-			"id" : 83157
-		},
-		{
-			"time" : "2013-05-05 19:11:37",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 13.76,
-			"id" : 1929
-		},
-		{
-			"time" : "2013-05-05 23:02:21",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 98.54,
-			"id" : 24456
-		},
-		{
-			"time" : "2013-05-06 02:21:25",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 12.9,
-			"id" : 76443
-		},
-		{
-			"time" : "2013-05-06 03:46:16",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 42.93,
-			"id" : 72434
-		},
-		{
-			"time" : "2013-05-06 09:24:49",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 51.43,
-			"id" : 67749
-		},
-		{
-			"time" : "2013-05-06 11:03:14",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 82.73,
-			"id" : 97184
-		},
-		{
-			"time" : "2013-05-06 21:33:14",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 64.22,
-			"id" : 15629
-		},
-		{
-			"time" : "2013-05-06 21:55:17",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 15.68,
-			"id" : 48844
-		},
-		{
-			"time" : "2013-05-07 00:15:22",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 94.83,
-			"id" : 16775
-		},
-		{
-			"time" : "2013-05-07 01:07:56",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 94.65,
-			"id" : 610
-		},
-		{
-			"time" : "2013-05-07 02:23:38",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 49.8,
-			"id" : 73884
-		},
-		{
-			"time" : "2013-05-07 02:39:17",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 80.68,
-			"id" : 95637
-		},
-		{
-			"time" : "2013-05-07 04:22:04",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 63.15,
-			"id" : 12981
-		},
-		{
-			"time" : "2013-05-07 05:07:37",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 12.56,
-			"id" : 47611
-		},
-		{
-			"time" : "2013-05-07 09:57:11",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 22.53,
-			"id" : 78450
-		},
-		{
-			"time" : "2013-05-07 15:19:55",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 67.5,
-			"id" : 61558
-		},
-		{
-			"time" : "2013-05-07 16:06:03",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 57.96,
-			"id" : 52924
-		},
-		{
-			"time" : "2013-05-07 17:09:31",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 26.5,
-			"id" : 95606
-		},
-		{
-			"time" : "2013-05-07 18:32:48",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 35.72,
-			"id" : 42403
-		},
-		{
-			"time" : "2013-05-07 20:02:59",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 40.62,
-			"id" : 3230
-		},
-		{
-			"time" : "2013-05-07 21:21:23",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 9.28,
-			"id" : 88326
-		},
-		{
-			"time" : "2013-05-07 21:59:20",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 85.13,
-			"id" : 38015
-		},
-		{
-			"time" : "2013-05-08 00:09:21",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.25,
-			"id" : 6128
-		},
-		{
-			"time" : "2013-05-08 03:07:03",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 96.53,
-			"id" : 56929
-		},
-		{
-			"time" : "2013-05-08 07:12:29",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 22.34,
-			"id" : 80665
-		},
-		{
-			"time" : "2013-05-08 09:05:57",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 81.41,
-			"id" : 21941
-		},
-		{
-			"time" : "2013-05-08 09:38:03",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 27.57,
-			"id" : 972
-		},
-		{
-			"time" : "2013-05-08 11:09:03",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 16.54,
-			"id" : 21653
-		},
-		{
-			"time" : "2013-05-08 11:30:30",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 44.62,
-			"id" : 34868
-		},
-		{
-			"time" : "2013-05-08 13:05:17",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 11.15,
-			"id" : 23565
-		},
-		{
-			"time" : "2013-05-08 13:41:25",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 17.76,
-			"id" : 22368
-		},
-		{
-			"time" : "2013-05-08 16:02:08",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 18.59,
-			"id" : 21685
-		},
-		{
-			"time" : "2013-05-08 17:47:36",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 51.89,
-			"id" : 91798
-		},
-		{
-			"time" : "2013-05-08 19:13:02",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 79.95,
-			"id" : 28858
-		},
-		{
-			"time" : "2013-05-08 19:22:27",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 90.59,
-			"id" : 52277
-		},
-		{
-			"time" : "2013-05-08 20:55:16",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 79.4,
-			"id" : 2885
-		},
-		{
-			"time" : "2013-05-08 20:58:11",
-			"type" : "conversion",
-			"user_id" : 18,
-			"revenue" : 70.79,
-			"id" : 17205
+			"user_id" : 37,
+			"revenue" : 53.97,
+			"id" : 99432
 		}
 	]

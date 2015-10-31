@@ -1,5 +1,5 @@
 <?php 
-  // include ('cache.php');
+  include ('api.php');
   if ( !defined('DS') ) {
     define('DS', DIRECTORY_SEPARATOR);
   }
@@ -48,10 +48,10 @@
         AppData.Templates = <?php echo json_encode($templates); ?>;
       </script>
       <script id="json-users">
-        AppData.Users = <?php echo file_get_contents(__DIR__ . DS . 'data' . DS . 'users.min.json'); ?>;
+        AppData.Users = <?php echo file_get_contents(__DIR__ . DS . 'data' . DS . 'users' . DS . 'index.min.json'); ?>;
       </script>
       <script id="json-logs">
-        AppData.Logs = <?php echo file_get_contents(__DIR__ . DS . 'data' . DS . 'logs.min.json'); ?>;
+        AppData.Logs = <?php echo file_get_contents(__DIR__ . DS . 'data' . DS . 'logs' . DS . 'index.min.json'); ?>;
       </script>
   </div>
 </body>

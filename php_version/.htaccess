@@ -1,5 +1,9 @@
 <IfModule mod_rewrite.c>
 #    RewriteEngine On
-#    RewriteCond %{REQUEST_FILENAME} !-f
-#    RewriteRule ^((?s).*)$ index.php?_url=/$1 [QSA,L]
+#    RewriteRule ^api/users/?$ api/min/users/index\.json [NC,L]
+#    RewriteRule ^api/users/([0-9]+)$ api/min/users/models/$1\.json [NC,L]
+#    RewriteRule ^api/users/pages/([0-9]+)$ api/min/users/pages/$1\.json [NC,L]
+#    RewriteRule ^api/logs/?$ api/min/logs/index\.json [NC,L]
+#    RewriteRule ^api/logs/([0-9]+)$ api/min/users/models/$1\.json [NC,L]
+#    RewriteRule ^api/logs/pages/([0-9]+)$ api/min/users/pages/$1\.json [NC,L]
 </IfModule>
